@@ -1,0 +1,4050 @@
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_0.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_1.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_2.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_3.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_4.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_5.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_6.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_7.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_8.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_9.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_10.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_11.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_12.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_13.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_14.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_0.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_1.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_2.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_3.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_4.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_5.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_6.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_7.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_8.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_9.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_10.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_11.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_12.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_13.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_14.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_15.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_16.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_17.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_18.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_0.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_1.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_2.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_3.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_4.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_5.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_6.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_7.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_8.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_9.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_10.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_11.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_12.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_13.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_14.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_15.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 0 0
+Department 0 0
+Faculty 0 0
+Professor 0 0
+FullProfessor 0 0
+AssociateProfessor 0 0
+AssistantProfessor 0 0
+Lecturer 0 0
+Student 0 0
+UndergraduateStudent 0 0
+GraduateStudent 0 0
+TeachingAssistant 0 0
+ResearchAssistant 0 0
+Course 0 0
+GraduateCourse 0 0
+Publication 0 0
+Chair 0 0
+Research 0 0
+ResearchGroup 0 0
+VisitingProfessor 0 0
+VisitingStudent 0 0
+WebCourse 0 0
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 0 0
+takesCourse 0 0
+teacherOf 0 0
+undergraduateDegreeFrom 0 0
+mastersDegreeFrom 0 0
+doctoralDegreeFrom 0 0
+advisor 0 0
+memberOf 0 0
+publicationAuthor 0 0
+headOf 0 0
+teachingAssistantOf 0 0
+researchInterest 0 0
+emailAddress 0 0
+telephone 0 0
+subOrganizationOf 0 0
+worksFor 0 0
+visitsAsProfessor 0 0
+durationOfVisit 0 0
+visitsAsStudent 0 0
+webCourseTopic 0 0
+url 0 0
+courseHours 0 0
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 0
+TOTAL SO FAR: 0
+

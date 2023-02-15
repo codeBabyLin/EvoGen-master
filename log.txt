@@ -1,0 +1,4050 @@
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_0.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 303 303
+Department 1 1
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 10
+AssociateProfessor 14 14
+AssistantProfessor 10 10
+Lecturer 7 7
+Student 0 0
+UndergraduateStudent 532 532
+GraduateStudent 146 146
+TeachingAssistant 29 29
+ResearchAssistant 39 39
+Course 69 69
+GraduateCourse 76 76
+Publication 457 457
+Chair 0 0
+Research 0 0
+ResearchGroup 10 10
+VisitingProfessor 8 8
+VisitingStudent 125 125
+WebCourse 76 76
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1912
+TOTAL SO FAR: 1912
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1532 1532
+takesCourse 2272 2272
+teacherOf 221 221
+undergraduateDegreeFrom 195 195
+mastersDegreeFrom 49 49
+doctoralDegreeFrom 49 49
+advisor 302 302
+memberOf 803 803
+publicationAuthor 834 834
+headOf 1 1
+teachingAssistantOf 29 29
+researchInterest 42 42
+emailAddress 852 852
+telephone 852 852
+subOrganizationOf 11 11
+worksFor 49 49
+visitsAsProfessor 8 8
+durationOfVisit 133 133
+visitsAsStudent 125 125
+webCourseTopic 76 76
+url 76 76
+courseHours 76 76
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 8587
+TOTAL SO FAR: 8587
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_1.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 265 568
+Department 1 2
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 19
+AssociateProfessor 12 26
+AssistantProfessor 10 20
+Lecturer 6 13
+Student 0 0
+UndergraduateStudent 344 876
+GraduateStudent 117 263
+TeachingAssistant 25 54
+ResearchAssistant 34 73
+Course 69 138
+GraduateCourse 67 143
+Publication 432 889
+Chair 0 0
+Research 0 0
+ResearchGroup 17 27
+VisitingProfessor 9 17
+VisitingStudent 134 259
+WebCourse 143 219
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1694
+TOTAL SO FAR: 3606
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1353 2885
+takesCourse 1659 3931
+teacherOf 203 424
+undergraduateDegreeFrom 163 358
+mastersDegreeFrom 46 95
+doctoralDegreeFrom 46 95
+advisor 248 550
+memberOf 595 1398
+publicationAuthor 723 1557
+headOf 1 2
+teachingAssistantOf 25 54
+researchInterest 40 82
+emailAddress 641 1493
+telephone 641 1493
+subOrganizationOf 18 29
+worksFor 46 95
+visitsAsProfessor 9 17
+durationOfVisit 143 276
+visitsAsStudent 134 259
+webCourseTopic 143 219
+url 143 219
+courseHours 143 219
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 7163
+TOTAL SO FAR: 15750
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_2.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 276 844
+Department 1 3
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 28
+AssociateProfessor 12 38
+AssistantProfessor 8 28
+Lecturer 6 19
+Student 0 0
+UndergraduateStudent 319 1195
+GraduateStudent 134 397
+TeachingAssistant 30 84
+ResearchAssistant 35 108
+Course 73 211
+GraduateCourse 67 210
+Publication 392 1281
+Chair 0 0
+Research 0 0
+ResearchGroup 19 46
+VisitingProfessor 9 26
+VisitingStudent 98 357
+WebCourse 210 429
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1698
+TOTAL SO FAR: 5304
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1338 4223
+takesCourse 1538 5469
+teacherOf 207 631
+undergraduateDegreeFrom 178 536
+mastersDegreeFrom 44 139
+doctoralDegreeFrom 44 139
+advisor 248 798
+memberOf 551 1949
+publicationAuthor 698 2255
+headOf 1 3
+teachingAssistantOf 30 84
+researchInterest 38 120
+emailAddress 595 2088
+telephone 595 2088
+subOrganizationOf 20 49
+worksFor 44 139
+visitsAsProfessor 9 26
+durationOfVisit 107 383
+visitsAsStudent 98 357
+webCourseTopic 210 429
+url 210 429
+courseHours 210 429
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 7013
+TOTAL SO FAR: 22763
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_3.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 277 1121
+Department 1 4
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 37
+AssociateProfessor 12 50
+AssistantProfessor 9 37
+Lecturer 7 26
+Student 0 0
+UndergraduateStudent 297 1492
+GraduateStudent 129 526
+TeachingAssistant 31 115
+ResearchAssistant 37 145
+Course 69 280
+GraduateCourse 72 282
+Publication 407 1688
+Chair 0 0
+Research 0 0
+ResearchGroup 19 65
+VisitingProfessor 9 35
+VisitingStudent 138 495
+WebCourse 282 711
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1805
+TOTAL SO FAR: 7109
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1441 5664
+takesCourse 1567 7036
+teacherOf 213 844
+undergraduateDegreeFrom 175 711
+mastersDegreeFrom 46 185
+doctoralDegreeFrom 46 185
+advisor 254 1052
+memberOf 564 2513
+publicationAuthor 705 2960
+headOf 1 4
+teachingAssistantOf 31 115
+researchInterest 39 159
+emailAddress 610 2698
+telephone 610 2698
+subOrganizationOf 20 69
+worksFor 46 185
+visitsAsProfessor 9 35
+durationOfVisit 147 530
+visitsAsStudent 138 495
+webCourseTopic 282 711
+url 282 711
+courseHours 282 711
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 7508
+TOTAL SO FAR: 30271
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_4.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 260 1381
+Department 1 5
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 46
+AssociateProfessor 10 60
+AssistantProfessor 8 45
+Lecturer 5 31
+Student 0 0
+UndergraduateStudent 372 1864
+GraduateStudent 123 649
+TeachingAssistant 26 141
+ResearchAssistant 35 180
+Course 64 344
+GraduateCourse 66 348
+Publication 347 2035
+Chair 0 0
+Research 0 0
+ResearchGroup 19 84
+VisitingProfessor 10 45
+VisitingStudent 117 612
+WebCourse 348 1059
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1820
+TOTAL SO FAR: 8929
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1480 7144
+takesCourse 1734 8770
+teacherOf 196 1040
+undergraduateDegreeFrom 165 876
+mastersDegreeFrom 42 227
+doctoralDegreeFrom 42 227
+advisor 263 1315
+memberOf 612 3125
+publicationAuthor 658 3618
+headOf 1 5
+teachingAssistantOf 26 141
+researchInterest 37 196
+emailAddress 654 3352
+telephone 654 3352
+subOrganizationOf 20 89
+worksFor 42 227
+visitsAsProfessor 10 45
+durationOfVisit 127 657
+visitsAsStudent 117 612
+webCourseTopic 348 1059
+url 348 1059
+courseHours 348 1059
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 7924
+TOTAL SO FAR: 38195
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_5.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 272 1653
+Department 1 6
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 53
+AssociateProfessor 10 70
+AssistantProfessor 11 56
+Lecturer 5 36
+Student 0 0
+UndergraduateStudent 264 2128
+GraduateStudent 132 781
+TeachingAssistant 26 167
+ResearchAssistant 44 224
+Course 63 407
+GraduateCourse 68 416
+Publication 365 2400
+Chair 0 0
+Research 0 0
+ResearchGroup 14 98
+VisitingProfessor 10 55
+VisitingStudent 108 720
+WebCourse 416 1475
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1816
+TOTAL SO FAR: 10745
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1460 8604
+takesCourse 1389 10159
+teacherOf 199 1239
+undergraduateDegreeFrom 175 1051
+mastersDegreeFrom 43 270
+doctoralDegreeFrom 43 270
+advisor 232 1547
+memberOf 504 3629
+publicationAuthor 683 4301
+headOf 1 6
+teachingAssistantOf 26 167
+researchInterest 38 234
+emailAddress 547 3899
+telephone 547 3899
+subOrganizationOf 15 104
+worksFor 43 270
+visitsAsProfessor 10 55
+durationOfVisit 118 775
+visitsAsStudent 108 720
+webCourseTopic 416 1475
+url 416 1475
+courseHours 416 1475
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 7429
+TOTAL SO FAR: 45624
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_6.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 247 1900
+Department 1 7
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 61
+AssociateProfessor 11 81
+AssistantProfessor 9 65
+Lecturer 5 41
+Student 0 0
+UndergraduateStudent 338 2466
+GraduateStudent 119 900
+TeachingAssistant 28 195
+ResearchAssistant 31 255
+Course 55 462
+GraduateCourse 53 469
+Publication 348 2748
+Chair 0 0
+Research 0 0
+ResearchGroup 18 116
+VisitingProfessor 7 62
+VisitingStudent 104 824
+WebCourse 469 1944
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1851
+TOTAL SO FAR: 12596
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1527 10131
+takesCourse 1564 11723
+teacherOf 161 1400
+undergraduateDegreeFrom 159 1210
+mastersDegreeFrom 40 310
+doctoralDegreeFrom 40 310
+advisor 247 1794
+memberOf 561 4190
+publicationAuthor 642 4943
+headOf 1 7
+teachingAssistantOf 28 195
+researchInterest 35 269
+emailAddress 601 4500
+telephone 601 4500
+subOrganizationOf 19 123
+worksFor 40 310
+visitsAsProfessor 7 62
+durationOfVisit 111 886
+visitsAsStudent 104 824
+webCourseTopic 469 1944
+url 469 1944
+courseHours 469 1944
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 7895
+TOTAL SO FAR: 53519
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_7.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 257 2157
+Department 1 8
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 70
+AssociateProfessor 11 92
+AssistantProfessor 8 73
+Lecturer 5 46
+Student 0 0
+UndergraduateStudent 316 2782
+GraduateStudent 125 1025
+TeachingAssistant 31 226
+ResearchAssistant 38 293
+Course 60 522
+GraduateCourse 62 531
+Publication 393 3141
+Chair 0 0
+Research 0 0
+ResearchGroup 17 133
+VisitingProfessor 8 70
+VisitingStudent 93 917
+WebCourse 531 2475
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1965
+TOTAL SO FAR: 14561
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1622 11753
+takesCourse 1475 13198
+teacherOf 184 1584
+undergraduateDegreeFrom 166 1376
+mastersDegreeFrom 41 351
+doctoralDegreeFrom 41 351
+advisor 244 2038
+memberOf 534 4724
+publicationAuthor 712 5655
+headOf 1 8
+teachingAssistantOf 31 226
+researchInterest 36 305
+emailAddress 575 5075
+telephone 575 5075
+subOrganizationOf 18 141
+worksFor 41 351
+visitsAsProfessor 8 70
+durationOfVisit 101 987
+visitsAsStudent 93 917
+webCourseTopic 531 2475
+url 531 2475
+courseHours 531 2475
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 8091
+TOTAL SO FAR: 61610
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_8.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 258 2415
+Department 1 9
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 79
+AssociateProfessor 10 102
+AssistantProfessor 9 82
+Lecturer 6 52
+Student 0 0
+UndergraduateStudent 286 3068
+GraduateStudent 123 1148
+TeachingAssistant 29 255
+ResearchAssistant 34 327
+Course 64 586
+GraduateCourse 59 590
+Publication 350 3491
+Chair 0 0
+Research 0 0
+ResearchGroup 11 144
+VisitingProfessor 8 78
+VisitingStudent 87 1004
+WebCourse 590 3065
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 1934
+TOTAL SO FAR: 16495
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1602 13355
+takesCourse 1371 14569
+teacherOf 182 1766
+undergraduateDegreeFrom 165 1541
+mastersDegreeFrom 42 393
+doctoralDegreeFrom 42 393
+advisor 221 2259
+memberOf 496 5220
+publicationAuthor 676 6331
+headOf 1 9
+teachingAssistantOf 29 255
+researchInterest 36 341
+emailAddress 538 5613
+telephone 538 5613
+subOrganizationOf 12 153
+worksFor 42 393
+visitsAsProfessor 8 78
+durationOfVisit 95 1082
+visitsAsStudent 87 1004
+webCourseTopic 590 3065
+url 590 3065
+courseHours 590 3065
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 7953
+TOTAL SO FAR: 69563
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_9.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 268 2683
+Department 1 10
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 86
+AssociateProfessor 12 114
+AssistantProfessor 9 91
+Lecturer 7 59
+Student 0 0
+UndergraduateStudent 285 3353
+GraduateStudent 130 1278
+TeachingAssistant 30 285
+ResearchAssistant 32 359
+Course 60 646
+GraduateCourse 61 651
+Publication 384 3875
+Chair 0 0
+Research 0 0
+ResearchGroup 19 163
+VisitingProfessor 8 86
+VisitingStudent 120 1124
+WebCourse 651 3716
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2084
+TOTAL SO FAR: 18579
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1735 15090
+takesCourse 1470 16039
+teacherOf 182 1948
+undergraduateDegreeFrom 173 1714
+mastersDegreeFrom 43 436
+doctoralDegreeFrom 43 436
+advisor 251 2510
+memberOf 535 5755
+publicationAuthor 718 7049
+headOf 1 10
+teachingAssistantOf 30 285
+researchInterest 36 377
+emailAddress 578 6191
+telephone 578 6191
+subOrganizationOf 20 173
+worksFor 43 436
+visitsAsProfessor 8 86
+durationOfVisit 128 1210
+visitsAsStudent 120 1124
+webCourseTopic 651 3716
+url 651 3716
+courseHours 651 3716
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 8645
+TOTAL SO FAR: 78208
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_10.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 264 2947
+Department 1 11
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 96
+AssociateProfessor 12 126
+AssistantProfessor 8 99
+Lecturer 5 64
+Student 0 0
+UndergraduateStudent 437 3790
+GraduateStudent 118 1396
+TeachingAssistant 25 310
+ResearchAssistant 34 393
+Course 67 713
+GraduateCourse 72 723
+Publication 418 4293
+Chair 0 0
+Research 0 0
+ResearchGroup 17 180
+VisitingProfessor 10 96
+VisitingStudent 120 1244
+WebCourse 723 4439
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2341
+TOTAL SO FAR: 20920
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2001 17091
+takesCourse 1909 17948
+teacherOf 211 2159
+undergraduateDegreeFrom 163 1877
+mastersDegreeFrom 45 481
+doctoralDegreeFrom 45 481
+advisor 255 2765
+memberOf 675 6430
+publicationAuthor 706 7755
+headOf 1 11
+teachingAssistantOf 25 310
+researchInterest 40 417
+emailAddress 720 6911
+telephone 720 6911
+subOrganizationOf 18 191
+worksFor 45 481
+visitsAsProfessor 10 96
+durationOfVisit 130 1340
+visitsAsStudent 120 1244
+webCourseTopic 723 4439
+url 723 4439
+courseHours 723 4439
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 10008
+TOTAL SO FAR: 88216
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_11.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 274 3221
+Department 1 12
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 103
+AssociateProfessor 14 140
+AssistantProfessor 8 107
+Lecturer 6 70
+Student 0 0
+UndergraduateStudent 436 4226
+GraduateStudent 128 1524
+TeachingAssistant 26 336
+ResearchAssistant 42 435
+Course 62 775
+GraduateCourse 67 790
+Publication 386 4679
+Chair 0 0
+Research 0 0
+ResearchGroup 10 190
+VisitingProfessor 10 106
+VisitingStudent 115 1359
+WebCourse 790 5229
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2382
+TOTAL SO FAR: 23302
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2030 19121
+takesCourse 1894 19842
+teacherOf 196 2355
+undergraduateDegreeFrom 173 2050
+mastersDegreeFrom 45 526
+doctoralDegreeFrom 45 526
+advisor 270 3035
+memberOf 679 7109
+publicationAuthor 734 8489
+headOf 1 12
+teachingAssistantOf 26 336
+researchInterest 39 456
+emailAddress 724 7635
+telephone 724 7635
+subOrganizationOf 11 202
+worksFor 45 526
+visitsAsProfessor 10 106
+durationOfVisit 125 1465
+visitsAsStudent 115 1359
+webCourseTopic 790 5229
+url 790 5229
+courseHours 790 5229
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 10256
+TOTAL SO FAR: 98472
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_12.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 278 3499
+Department 1 13
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 113
+AssociateProfessor 10 150
+AssistantProfessor 10 117
+Lecturer 7 77
+Student 0 0
+UndergraduateStudent 482 4708
+GraduateStudent 138 1662
+TeachingAssistant 31 367
+ResearchAssistant 38 473
+Course 63 838
+GraduateCourse 68 858
+Publication 407 5086
+Chair 0 0
+Research 0 0
+ResearchGroup 11 201
+VisitingProfessor 7 113
+VisitingStudent 107 1466
+WebCourse 858 6087
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2526
+TOTAL SO FAR: 25828
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2168 21289
+takesCourse 2083 21925
+teacherOf 199 2554
+undergraduateDegreeFrom 182 2232
+mastersDegreeFrom 44 570
+doctoralDegreeFrom 44 570
+advisor 294 3329
+memberOf 727 7836
+publicationAuthor 745 9234
+headOf 1 13
+teachingAssistantOf 31 367
+researchInterest 37 493
+emailAddress 771 8406
+telephone 771 8406
+subOrganizationOf 12 214
+worksFor 44 570
+visitsAsProfessor 7 113
+durationOfVisit 114 1579
+visitsAsStudent 107 1466
+webCourseTopic 858 6087
+url 858 6087
+courseHours 858 6087
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 10955
+TOTAL SO FAR: 109427
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_13.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 260 3759
+Department 1 14
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 120
+AssociateProfessor 10 160
+AssistantProfessor 10 127
+Lecturer 5 82
+Student 0 0
+UndergraduateStudent 292 5000
+GraduateStudent 123 1785
+TeachingAssistant 28 395
+ResearchAssistant 40 513
+Course 61 899
+GraduateCourse 64 922
+Publication 349 5435
+Chair 0 0
+Research 0 0
+ResearchGroup 19 220
+VisitingProfessor 10 123
+VisitingStudent 124 1590
+WebCourse 922 7009
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2325
+TOTAL SO FAR: 28153
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1978 23267
+takesCourse 1492 23417
+teacherOf 189 2743
+undergraduateDegreeFrom 165 2397
+mastersDegreeFrom 42 612
+doctoralDegreeFrom 42 612
+advisor 236 3565
+memberOf 539 8375
+publicationAuthor 694 9928
+headOf 1 14
+teachingAssistantOf 28 395
+researchInterest 37 530
+emailAddress 581 8987
+telephone 581 8987
+subOrganizationOf 20 234
+worksFor 42 612
+visitsAsProfessor 10 123
+durationOfVisit 134 1713
+visitsAsStudent 124 1590
+webCourseTopic 922 7009
+url 922 7009
+courseHours 922 7009
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 9701
+TOTAL SO FAR: 119128
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University0_14.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 292 4051
+Department 1 15
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 129
+AssociateProfessor 14 174
+AssistantProfessor 10 137
+Lecturer 7 89
+Student 0 0
+UndergraduateStudent 374 5374
+GraduateStudent 135 1920
+TeachingAssistant 30 425
+ResearchAssistant 37 550
+Course 69 968
+GraduateCourse 76 998
+Publication 460 5895
+Chair 0 0
+Research 0 0
+ResearchGroup 11 231
+VisitingProfessor 9 132
+VisitingStudent 108 1698
+WebCourse 998 8007
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2640
+TOTAL SO FAR: 30793
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2270 25537
+takesCourse 1719 25136
+teacherOf 221 2964
+undergraduateDegreeFrom 184 2581
+mastersDegreeFrom 49 661
+doctoralDegreeFrom 49 661
+advisor 259 3824
+memberOf 617 8992
+publicationAuthor 802 10730
+headOf 1 15
+teachingAssistantOf 30 425
+researchInterest 42 572
+emailAddress 666 9653
+telephone 666 9653
+subOrganizationOf 12 246
+worksFor 49 661
+visitsAsProfessor 9 132
+durationOfVisit 117 1830
+visitsAsStudent 108 1698
+webCourseTopic 998 8007
+url 998 8007
+courseHours 998 8007
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 10864
+TOTAL SO FAR: 129992
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_0.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 254 4305
+Department 1 16
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 136
+AssociateProfessor 12 186
+AssistantProfessor 9 146
+Lecturer 7 96
+Student 0 0
+UndergraduateStudent 283 5657
+GraduateStudent 119 2039
+TeachingAssistant 24 449
+ResearchAssistant 30 580
+Course 60 1028
+GraduateCourse 66 1064
+Publication 380 6275
+Chair 0 0
+Research 0 0
+ResearchGroup 14 245
+VisitingProfessor 7 139
+VisitingStudent 104 1802
+WebCourse 1064 9071
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2441
+TOTAL SO FAR: 33234
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2120 27657
+takesCourse 1421 26557
+teacherOf 192 3156
+undergraduateDegreeFrom 161 2742
+mastersDegreeFrom 42 703
+doctoralDegreeFrom 42 703
+advisor 214 4038
+memberOf 506 9498
+publicationAuthor 692 11422
+headOf 1 16
+teachingAssistantOf 24 449
+researchInterest 35 607
+emailAddress 548 10201
+telephone 548 10201
+subOrganizationOf 15 261
+worksFor 42 703
+visitsAsProfessor 7 139
+durationOfVisit 111 1941
+visitsAsStudent 104 1802
+webCourseTopic 1064 9071
+url 1064 9071
+courseHours 1064 9071
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 10017
+TOTAL SO FAR: 140009
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_1.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 257 4562
+Department 1 17
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 144
+AssociateProfessor 10 196
+AssistantProfessor 11 157
+Lecturer 7 103
+Student 0 0
+UndergraduateStudent 301 5958
+GraduateStudent 120 2159
+TeachingAssistant 25 474
+ResearchAssistant 38 618
+Course 65 1093
+GraduateCourse 64 1128
+Publication 365 6640
+Chair 0 0
+Research 0 0
+ResearchGroup 10 255
+VisitingProfessor 7 146
+VisitingStudent 87 1889
+WebCourse 1128 10199
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2504
+TOTAL SO FAR: 35738
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2174 29831
+takesCourse 1401 27958
+teacherOf 193 3349
+undergraduateDegreeFrom 163 2905
+mastersDegreeFrom 43 746
+doctoralDegreeFrom 43 746
+advisor 225 4263
+memberOf 508 10006
+publicationAuthor 671 12093
+headOf 1 17
+teachingAssistantOf 25 474
+researchInterest 36 643
+emailAddress 551 10752
+telephone 551 10752
+subOrganizationOf 11 272
+worksFor 43 746
+visitsAsProfessor 7 146
+durationOfVisit 94 2035
+visitsAsStudent 87 1889
+webCourseTopic 1128 10199
+url 1128 10199
+courseHours 1128 10199
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 10211
+TOTAL SO FAR: 150220
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_2.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 307 4869
+Department 1 18
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 154
+AssociateProfessor 13 209
+AssistantProfessor 10 167
+Lecturer 5 108
+Student 0 0
+UndergraduateStudent 355 6313
+GraduateStudent 152 2311
+TeachingAssistant 37 511
+ResearchAssistant 38 656
+Course 72 1165
+GraduateCourse 77 1205
+Publication 436 7076
+Chair 0 0
+Research 0 0
+ResearchGroup 12 267
+VisitingProfessor 10 156
+VisitingStudent 139 2028
+WebCourse 1205 11404
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2879
+TOTAL SO FAR: 38617
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2485 32316
+takesCourse 1837 29795
+teacherOf 226 3575
+undergraduateDegreeFrom 200 3105
+mastersDegreeFrom 48 794
+doctoralDegreeFrom 48 794
+advisor 293 4556
+memberOf 646 10652
+publicationAuthor 818 12911
+headOf 1 18
+teachingAssistantOf 37 511
+researchInterest 43 686
+emailAddress 694 11446
+telephone 694 11446
+subOrganizationOf 13 285
+worksFor 48 794
+visitsAsProfessor 10 156
+durationOfVisit 149 2184
+visitsAsStudent 139 2028
+webCourseTopic 1205 11404
+url 1205 11404
+courseHours 1205 11404
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 12044
+TOTAL SO FAR: 162264
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_3.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 276 5145
+Department 1 19
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 163
+AssociateProfessor 12 221
+AssistantProfessor 9 176
+Lecturer 5 113
+Student 0 0
+UndergraduateStudent 344 6657
+GraduateStudent 134 2445
+TeachingAssistant 27 538
+ResearchAssistant 34 690
+Course 57 1222
+GraduateCourse 66 1271
+Publication 385 7461
+Chair 0 0
+Research 0 0
+ResearchGroup 10 277
+VisitingProfessor 9 165
+VisitingStudent 93 2121
+WebCourse 1271 12675
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2742
+TOTAL SO FAR: 41359
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2395 34711
+takesCourse 1538 31333
+teacherOf 189 3764
+undergraduateDegreeFrom 178 3283
+mastersDegreeFrom 44 838
+doctoralDegreeFrom 44 838
+advisor 257 4813
+memberOf 571 11223
+publicationAuthor 739 13650
+headOf 1 19
+teachingAssistantOf 27 538
+researchInterest 39 725
+emailAddress 615 12061
+telephone 615 12061
+subOrganizationOf 11 296
+worksFor 44 838
+visitsAsProfessor 9 165
+durationOfVisit 102 2286
+visitsAsStudent 93 2121
+webCourseTopic 1271 12675
+url 1271 12675
+courseHours 1271 12675
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 11324
+TOTAL SO FAR: 173588
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_4.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 239 5384
+Department 1 20
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 171
+AssociateProfessor 11 232
+AssistantProfessor 9 185
+Lecturer 6 119
+Student 0 0
+UndergraduateStudent 314 6971
+GraduateStudent 108 2553
+TeachingAssistant 26 564
+ResearchAssistant 34 724
+Course 59 1281
+GraduateCourse 67 1338
+Publication 382 7843
+Chair 0 0
+Research 0 0
+ResearchGroup 17 294
+VisitingProfessor 7 172
+VisitingStudent 98 2219
+WebCourse 1338 14013
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2724
+TOTAL SO FAR: 44083
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2408 37119
+takesCourse 1433 32766
+teacherOf 193 3957
+undergraduateDegreeFrom 149 3432
+mastersDegreeFrom 41 879
+doctoralDegreeFrom 41 879
+advisor 224 5037
+memberOf 520 11743
+publicationAuthor 654 14304
+headOf 1 20
+teachingAssistantOf 26 564
+researchInterest 35 760
+emailAddress 561 12622
+telephone 561 12622
+subOrganizationOf 18 314
+worksFor 41 879
+visitsAsProfessor 7 172
+durationOfVisit 105 2391
+visitsAsStudent 98 2219
+webCourseTopic 1338 14013
+url 1338 14013
+courseHours 1338 14013
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 11130
+TOTAL SO FAR: 184718
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_5.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 253 5637
+Department 1 21
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 180
+AssociateProfessor 10 242
+AssistantProfessor 10 195
+Lecturer 7 126
+Student 0 0
+UndergraduateStudent 421 7392
+GraduateStudent 108 2661
+TeachingAssistant 21 585
+ResearchAssistant 35 759
+Course 67 1348
+GraduateCourse 66 1404
+Publication 379 8222
+Chair 0 0
+Research 0 0
+ResearchGroup 20 314
+VisitingProfessor 9 181
+VisitingStudent 104 2323
+WebCourse 1404 15417
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2924
+TOTAL SO FAR: 47007
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2595 39714
+takesCourse 1781 34547
+teacherOf 199 4156
+undergraduateDegreeFrom 153 3585
+mastersDegreeFrom 45 924
+doctoralDegreeFrom 45 924
+advisor 253 5290
+memberOf 633 12376
+publicationAuthor 650 14954
+headOf 1 21
+teachingAssistantOf 21 585
+researchInterest 38 798
+emailAddress 678 13300
+telephone 678 13300
+subOrganizationOf 21 335
+worksFor 45 924
+visitsAsProfessor 9 181
+durationOfVisit 113 2504
+visitsAsStudent 104 2323
+webCourseTopic 1404 15417
+url 1404 15417
+courseHours 1404 15417
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 12274
+TOTAL SO FAR: 196992
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_6.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 243 5880
+Department 1 22
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 187
+AssociateProfessor 11 253
+AssistantProfessor 8 203
+Lecturer 5 131
+Student 0 0
+UndergraduateStudent 345 7737
+GraduateStudent 117 2778
+TeachingAssistant 27 612
+ResearchAssistant 39 798
+Course 57 1405
+GraduateCourse 55 1459
+Publication 345 8567
+Chair 0 0
+Research 0 0
+ResearchGroup 13 327
+VisitingProfessor 8 189
+VisitingStudent 80 2403
+WebCourse 1459 16876
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 2820
+TOTAL SO FAR: 49827
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2498 42212
+takesCourse 1539 36086
+teacherOf 167 4323
+undergraduateDegreeFrom 156 3741
+mastersDegreeFrom 39 963
+doctoralDegreeFrom 39 963
+advisor 230 5520
+memberOf 542 12918
+publicationAuthor 648 15602
+headOf 1 22
+teachingAssistantOf 27 612
+researchInterest 34 832
+emailAddress 581 13881
+telephone 581 13881
+subOrganizationOf 14 349
+worksFor 39 963
+visitsAsProfessor 8 189
+durationOfVisit 88 2592
+visitsAsStudent 80 2403
+webCourseTopic 1459 16876
+url 1459 16876
+courseHours 1459 16876
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 11688
+TOTAL SO FAR: 208680
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_7.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 277 6157
+Department 1 23
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 196
+AssociateProfessor 14 267
+AssistantProfessor 8 211
+Lecturer 6 137
+Student 0 0
+UndergraduateStudent 368 8105
+GraduateStudent 133 2911
+TeachingAssistant 32 644
+ResearchAssistant 33 831
+Course 65 1470
+GraduateCourse 61 1520
+Publication 429 8996
+Chair 0 0
+Research 0 0
+ResearchGroup 13 340
+VisitingProfessor 8 197
+VisitingStudent 90 2493
+WebCourse 1520 18396
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3067
+TOTAL SO FAR: 52894
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2712 44924
+takesCourse 1621 37707
+teacherOf 187 4510
+undergraduateDegreeFrom 178 3919
+mastersDegreeFrom 45 1008
+doctoralDegreeFrom 45 1008
+advisor 246 5766
+memberOf 591 13509
+publicationAuthor 720 16322
+headOf 1 23
+teachingAssistantOf 32 644
+researchInterest 39 871
+emailAddress 636 14517
+telephone 636 14517
+subOrganizationOf 14 363
+worksFor 45 1008
+visitsAsProfessor 8 197
+durationOfVisit 98 2690
+visitsAsStudent 90 2493
+webCourseTopic 1520 18396
+url 1520 18396
+courseHours 1520 18396
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 12504
+TOTAL SO FAR: 221184
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_8.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 233 6390
+Department 1 24
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 205
+AssociateProfessor 10 277
+AssistantProfessor 8 219
+Lecturer 6 143
+Student 0 0
+UndergraduateStudent 418 8523
+GraduateStudent 105 3016
+TeachingAssistant 21 665
+ResearchAssistant 26 857
+Course 57 1527
+GraduateCourse 63 1583
+Publication 360 9356
+Chair 0 0
+Research 0 0
+ResearchGroup 12 352
+VisitingProfessor 7 204
+VisitingStudent 95 2588
+WebCourse 1583 19979
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3014
+TOTAL SO FAR: 55908
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2722 47646
+takesCourse 1757 39464
+teacherOf 183 4693
+undergraduateDegreeFrom 145 4064
+mastersDegreeFrom 40 1048
+doctoralDegreeFrom 40 1048
+advisor 228 5994
+memberOf 618 14127
+publicationAuthor 626 16948
+headOf 1 24
+teachingAssistantOf 21 665
+researchInterest 34 905
+emailAddress 658 15175
+telephone 658 15175
+subOrganizationOf 13 376
+worksFor 40 1048
+visitsAsProfessor 7 204
+durationOfVisit 102 2792
+visitsAsStudent 95 2588
+webCourseTopic 1583 19979
+url 1583 19979
+courseHours 1583 19979
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 12737
+TOTAL SO FAR: 233921
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_9.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 259 6649
+Department 1 25
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 212
+AssociateProfessor 14 291
+AssistantProfessor 8 227
+Lecturer 7 150
+Student 0 0
+UndergraduateStudent 418 8941
+GraduateStudent 118 3134
+TeachingAssistant 23 688
+ResearchAssistant 35 892
+Course 66 1593
+GraduateCourse 68 1651
+Publication 387 9743
+Chair 0 0
+Research 0 0
+ResearchGroup 13 365
+VisitingProfessor 8 212
+VisitingStudent 90 2678
+WebCourse 1651 21630
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3173
+TOTAL SO FAR: 59081
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2843 50489
+takesCourse 1748 41212
+teacherOf 202 4895
+undergraduateDegreeFrom 162 4226
+mastersDegreeFrom 44 1092
+doctoralDegreeFrom 44 1092
+advisor 252 6246
+memberOf 626 14753
+publicationAuthor 646 17594
+headOf 1 25
+teachingAssistantOf 23 688
+researchInterest 37 942
+emailAddress 670 15845
+telephone 670 15845
+subOrganizationOf 14 390
+worksFor 44 1092
+visitsAsProfessor 8 212
+durationOfVisit 98 2890
+visitsAsStudent 90 2678
+webCourseTopic 1651 21630
+url 1651 21630
+courseHours 1651 21630
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 13175
+TOTAL SO FAR: 247096
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_10.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 289 6938
+Department 1 26
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 219
+AssociateProfessor 12 303
+AssistantProfessor 11 238
+Lecturer 7 157
+Student 0 0
+UndergraduateStudent 360 9301
+GraduateStudent 145 3279
+TeachingAssistant 35 723
+ResearchAssistant 39 931
+Course 66 1659
+GraduateCourse 71 1722
+Publication 395 10138
+Chair 0 0
+Research 0 0
+ResearchGroup 13 378
+VisitingProfessor 8 220
+VisitingStudent 107 2785
+WebCourse 1722 23352
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3288
+TOTAL SO FAR: 62369
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 2912 53401
+takesCourse 1713 42925
+teacherOf 208 5103
+undergraduateDegreeFrom 190 4416
+mastersDegreeFrom 45 1137
+doctoralDegreeFrom 45 1137
+advisor 281 6527
+memberOf 612 15365
+publicationAuthor 766 18360
+headOf 1 26
+teachingAssistantOf 35 723
+researchInterest 38 980
+emailAddress 657 16502
+telephone 657 16502
+subOrganizationOf 14 404
+worksFor 45 1137
+visitsAsProfessor 8 220
+durationOfVisit 115 3005
+visitsAsStudent 107 2785
+webCourseTopic 1722 23352
+url 1722 23352
+courseHours 1722 23352
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 13615
+TOTAL SO FAR: 260711
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_11.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 294 7232
+Department 1 27
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 229
+AssociateProfessor 13 316
+AssistantProfessor 8 246
+Lecturer 7 164
+Student 0 0
+UndergraduateStudent 479 9780
+GraduateStudent 139 3418
+TeachingAssistant 33 756
+ResearchAssistant 39 970
+Course 72 1731
+GraduateCourse 71 1793
+Publication 418 10556
+Chair 0 0
+Research 0 0
+ResearchGroup 14 392
+VisitingProfessor 10 230
+VisitingStudent 132 2917
+WebCourse 1793 25145
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3533
+TOTAL SO FAR: 65902
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3153 56554
+takesCourse 2118 45043
+teacherOf 214 5317
+undergraduateDegreeFrom 187 4603
+mastersDegreeFrom 48 1185
+doctoralDegreeFrom 48 1185
+advisor 301 6828
+memberOf 750 16115
+publicationAuthor 718 19078
+headOf 1 27
+teachingAssistantOf 33 756
+researchInterest 41 1021
+emailAddress 798 17300
+telephone 798 17300
+subOrganizationOf 15 419
+worksFor 48 1185
+visitsAsProfessor 10 230
+durationOfVisit 142 3147
+visitsAsStudent 132 2917
+webCourseTopic 1793 25145
+url 1793 25145
+courseHours 1793 25145
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 14934
+TOTAL SO FAR: 275645
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_12.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 316 7548
+Department 1 28
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 239
+AssociateProfessor 14 330
+AssistantProfessor 11 257
+Lecturer 7 171
+Student 0 0
+UndergraduateStudent 423 10203
+GraduateStudent 157 3575
+TeachingAssistant 32 788
+ResearchAssistant 47 1017
+Course 73 1804
+GraduateCourse 80 1873
+Publication 487 11043
+Chair 0 0
+Research 0 0
+ResearchGroup 12 404
+VisitingProfessor 8 238
+VisitingStudent 103 3020
+WebCourse 1873 27018
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3654
+TOTAL SO FAR: 69556
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3247 59801
+takesCourse 1904 46947
+teacherOf 233 5550
+undergraduateDegreeFrom 207 4810
+mastersDegreeFrom 50 1235
+doctoralDegreeFrom 50 1235
+advisor 298 7126
+memberOf 683 16798
+publicationAuthor 878 19956
+headOf 1 28
+teachingAssistantOf 32 788
+researchInterest 43 1064
+emailAddress 733 18033
+telephone 733 18033
+subOrganizationOf 13 432
+worksFor 50 1235
+visitsAsProfessor 8 238
+durationOfVisit 111 3258
+visitsAsStudent 103 3020
+webCourseTopic 1873 27018
+url 1873 27018
+courseHours 1873 27018
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 14996
+TOTAL SO FAR: 290641
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_13.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 263 7811
+Department 1 29
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 247
+AssociateProfessor 11 341
+AssistantProfessor 10 267
+Lecturer 7 178
+Student 0 0
+UndergraduateStudent 390 10593
+GraduateStudent 126 3701
+TeachingAssistant 26 814
+ResearchAssistant 41 1058
+Course 63 1867
+GraduateCourse 65 1938
+Publication 401 11444
+Chair 0 0
+Research 0 0
+ResearchGroup 15 419
+VisitingProfessor 7 245
+VisitingStudent 117 3137
+WebCourse 1938 28956
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3489
+TOTAL SO FAR: 73045
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3144 62945
+takesCourse 1764 48711
+teacherOf 193 5743
+undergraduateDegreeFrom 169 4979
+mastersDegreeFrom 43 1278
+doctoralDegreeFrom 43 1278
+advisor 269 7395
+memberOf 633 17431
+publicationAuthor 714 20670
+headOf 1 29
+teachingAssistantOf 26 814
+researchInterest 36 1100
+emailAddress 676 18709
+telephone 676 18709
+subOrganizationOf 16 448
+worksFor 43 1278
+visitsAsProfessor 7 245
+durationOfVisit 124 3382
+visitsAsStudent 117 3137
+webCourseTopic 1938 28956
+url 1938 28956
+courseHours 1938 28956
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 14508
+TOTAL SO FAR: 305149
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_14.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 263 8074
+Department 1 30
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 256
+AssociateProfessor 11 352
+AssistantProfessor 11 278
+Lecturer 7 185
+Student 0 0
+UndergraduateStudent 332 10925
+GraduateStudent 116 3817
+TeachingAssistant 29 843
+ResearchAssistant 36 1094
+Course 69 1936
+GraduateCourse 62 2000
+Publication 412 11856
+Chair 0 0
+Research 0 0
+ResearchGroup 10 429
+VisitingProfessor 8 253
+VisitingStudent 105 3242
+WebCourse 2000 30956
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3481
+TOTAL SO FAR: 76526
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3143 66088
+takesCourse 1546 50257
+teacherOf 193 5936
+undergraduateDegreeFrom 162 5141
+mastersDegreeFrom 46 1324
+doctoralDegreeFrom 46 1324
+advisor 238 7633
+memberOf 553 17984
+publicationAuthor 726 21396
+headOf 1 30
+teachingAssistantOf 29 843
+researchInterest 39 1139
+emailAddress 599 19308
+telephone 599 19308
+subOrganizationOf 11 459
+worksFor 46 1324
+visitsAsProfessor 8 253
+durationOfVisit 113 3495
+visitsAsStudent 105 3242
+webCourseTopic 2000 30956
+url 2000 30956
+courseHours 2000 30956
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 14203
+TOTAL SO FAR: 319352
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_15.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 298 8372
+Department 1 31
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 264
+AssociateProfessor 12 364
+AssistantProfessor 11 289
+Lecturer 6 191
+Student 0 0
+UndergraduateStudent 371 11296
+GraduateStudent 146 3963
+TeachingAssistant 36 879
+ResearchAssistant 45 1139
+Course 72 2008
+GraduateCourse 69 2069
+Publication 400 12256
+Chair 0 0
+Research 0 0
+ResearchGroup 16 445
+VisitingProfessor 10 263
+VisitingStudent 97 3339
+WebCourse 2069 33025
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3667
+TOTAL SO FAR: 80193
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3272 69360
+takesCourse 1672 51929
+teacherOf 210 6146
+undergraduateDegreeFrom 193 5334
+mastersDegreeFrom 47 1371
+doctoralDegreeFrom 47 1371
+advisor 261 7894
+memberOf 614 18598
+publicationAuthor 782 22178
+headOf 1 31
+teachingAssistantOf 36 879
+researchInterest 41 1180
+emailAddress 661 19969
+telephone 661 19969
+subOrganizationOf 17 476
+worksFor 47 1371
+visitsAsProfessor 10 263
+durationOfVisit 107 3602
+visitsAsStudent 97 3339
+webCourseTopic 2069 33025
+url 2069 33025
+courseHours 2069 33025
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 14983
+TOTAL SO FAR: 334335
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_16.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 253 8625
+Department 1 32
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 273
+AssociateProfessor 11 375
+AssistantProfessor 9 298
+Lecturer 5 196
+Student 0 0
+UndergraduateStudent 474 11770
+GraduateStudent 114 4077
+TeachingAssistant 23 902
+ResearchAssistant 34 1173
+Course 67 2075
+GraduateCourse 66 2135
+Publication 390 12646
+Chair 0 0
+Research 0 0
+ResearchGroup 17 462
+VisitingProfessor 9 272
+VisitingStudent 95 3434
+WebCourse 2135 35160
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3712
+TOTAL SO FAR: 83905
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3385 72745
+takesCourse 1945 53874
+teacherOf 199 6345
+undergraduateDegreeFrom 157 5491
+mastersDegreeFrom 43 1414
+doctoralDegreeFrom 43 1414
+advisor 253 8147
+memberOf 683 19281
+publicationAuthor 669 22847
+headOf 1 32
+teachingAssistantOf 23 902
+researchInterest 38 1218
+emailAddress 726 20695
+telephone 726 20695
+subOrganizationOf 18 494
+worksFor 43 1414
+visitsAsProfessor 9 272
+durationOfVisit 104 3706
+visitsAsStudent 95 3434
+webCourseTopic 2135 35160
+url 2135 35160
+courseHours 2135 35160
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 15565
+TOTAL SO FAR: 349900
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_17.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 293 8918
+Department 1 33
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 283
+AssociateProfessor 12 387
+AssistantProfessor 9 307
+Lecturer 7 203
+Student 0 0
+UndergraduateStudent 306 12076
+GraduateStudent 150 4227
+TeachingAssistant 34 936
+ResearchAssistant 41 1214
+Course 71 2146
+GraduateCourse 69 2204
+Publication 417 13063
+Chair 0 0
+Research 0 0
+ResearchGroup 15 477
+VisitingProfessor 7 279
+VisitingStudent 100 3534
+WebCourse 2204 37364
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3746
+TOTAL SO FAR: 87651
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3363 76108
+takesCourse 1518 55392
+teacherOf 209 6554
+undergraduateDegreeFrom 195 5686
+mastersDegreeFrom 45 1459
+doctoralDegreeFrom 45 1459
+advisor 266 8413
+memberOf 556 19837
+publicationAuthor 817 23664
+headOf 1 33
+teachingAssistantOf 34 936
+researchInterest 38 1256
+emailAddress 601 21296
+telephone 601 21296
+subOrganizationOf 16 510
+worksFor 45 1459
+visitsAsProfessor 7 279
+durationOfVisit 107 3813
+visitsAsStudent 100 3534
+webCourseTopic 2204 37364
+url 2204 37364
+courseHours 2204 37364
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 15176
+TOTAL SO FAR: 365076
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University1_18.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=1
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 248 9166
+Department 1 34
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 291
+AssociateProfessor 10 397
+AssistantProfessor 9 316
+Lecturer 6 209
+Student 0 0
+UndergraduateStudent 316 12392
+GraduateStudent 116 4343
+TeachingAssistant 27 963
+ResearchAssistant 35 1249
+Course 63 2209
+GraduateCourse 64 2268
+Publication 367 13430
+Chair 0 0
+Research 0 0
+ResearchGroup 17 494
+VisitingProfessor 8 287
+VisitingStudent 105 3639
+WebCourse 2268 39632
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3668
+TOTAL SO FAR: 91319
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3341 79449
+takesCourse 1534 56926
+teacherOf 191 6745
+undergraduateDegreeFrom 157 5843
+mastersDegreeFrom 41 1500
+doctoralDegreeFrom 41 1500
+advisor 222 8635
+memberOf 537 20374
+publicationAuthor 662 24326
+headOf 1 34
+teachingAssistantOf 27 963
+researchInterest 35 1291
+emailAddress 578 21874
+telephone 578 21874
+subOrganizationOf 18 528
+worksFor 41 1500
+visitsAsProfessor 8 287
+durationOfVisit 113 3926
+visitsAsStudent 105 3639
+webCourseTopic 2268 39632
+url 2268 39632
+courseHours 2268 39632
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 15034
+TOTAL SO FAR: 380110
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_0.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 259 9425
+Department 1 35
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 299
+AssociateProfessor 10 407
+AssistantProfessor 8 324
+Lecturer 5 214
+Student 0 0
+UndergraduateStudent 370 12762
+GraduateStudent 124 4467
+TeachingAssistant 24 987
+ResearchAssistant 35 1284
+Course 61 2270
+GraduateCourse 63 2331
+Publication 349 13779
+Chair 0 0
+Research 0 0
+ResearchGroup 15 509
+VisitingProfessor 10 297
+VisitingStudent 114 3753
+WebCourse 2331 41963
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3787
+TOTAL SO FAR: 95106
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3455 82904
+takesCourse 1686 58612
+teacherOf 187 6932
+undergraduateDegreeFrom 165 6008
+mastersDegreeFrom 41 1541
+doctoralDegreeFrom 41 1541
+advisor 262 8897
+memberOf 608 20982
+publicationAuthor 649 24975
+headOf 1 35
+teachingAssistantOf 24 987
+researchInterest 36 1327
+emailAddress 649 22523
+telephone 649 22523
+subOrganizationOf 16 544
+worksFor 41 1541
+visitsAsProfessor 10 297
+durationOfVisit 124 4050
+visitsAsStudent 114 3753
+webCourseTopic 2331 41963
+url 2331 41963
+courseHours 2331 41963
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 15751
+TOTAL SO FAR: 395861
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_1.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 277 9702
+Department 1 36
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 308
+AssociateProfessor 14 421
+AssistantProfessor 9 333
+Lecturer 6 220
+Student 0 0
+UndergraduateStudent 407 13169
+GraduateStudent 130 4597
+TeachingAssistant 32 1019
+ResearchAssistant 40 1324
+Course 73 2343
+GraduateCourse 66 2397
+Publication 442 14221
+Chair 0 0
+Research 0 0
+ResearchGroup 19 528
+VisitingProfessor 8 305
+VisitingStudent 136 3889
+WebCourse 2397 44360
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4066
+TOTAL SO FAR: 99172
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3698 86602
+takesCourse 1901 60513
+teacherOf 205 7137
+undergraduateDegreeFrom 176 6184
+mastersDegreeFrom 46 1587
+doctoralDegreeFrom 46 1587
+advisor 279 9176
+memberOf 673 21655
+publicationAuthor 751 25726
+headOf 1 36
+teachingAssistantOf 32 1019
+researchInterest 40 1367
+emailAddress 719 23242
+telephone 719 23242
+subOrganizationOf 20 564
+worksFor 46 1587
+visitsAsProfessor 8 305
+durationOfVisit 144 4194
+visitsAsStudent 136 3889
+webCourseTopic 2397 44360
+url 2397 44360
+courseHours 2397 44360
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 16831
+TOTAL SO FAR: 412692
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_2.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 260 9962
+Department 1 37
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 315
+AssociateProfessor 14 435
+AssistantProfessor 8 341
+Lecturer 6 226
+Student 0 0
+UndergraduateStudent 404 13573
+GraduateStudent 118 4715
+TeachingAssistant 28 1047
+ResearchAssistant 34 1358
+Course 65 2408
+GraduateCourse 62 2459
+Publication 405 14626
+Chair 0 0
+Research 0 0
+ResearchGroup 18 546
+VisitingProfessor 9 314
+VisitingStudent 98 3987
+WebCourse 2459 46819
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 3996
+TOTAL SO FAR: 103168
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3656 90258
+takesCourse 1713 62226
+teacherOf 189 7326
+undergraduateDegreeFrom 162 6346
+mastersDegreeFrom 44 1631
+doctoralDegreeFrom 44 1631
+advisor 251 9427
+memberOf 620 22275
+publicationAuthor 704 26430
+headOf 1 37
+teachingAssistantOf 28 1047
+researchInterest 38 1405
+emailAddress 664 23906
+telephone 664 23906
+subOrganizationOf 19 583
+worksFor 44 1631
+visitsAsProfessor 9 314
+durationOfVisit 107 4301
+visitsAsStudent 98 3987
+webCourseTopic 2459 46819
+url 2459 46819
+courseHours 2459 46819
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 16432
+TOTAL SO FAR: 429124
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_3.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 252 10214
+Department 1 38
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 324
+AssociateProfessor 10 445
+AssistantProfessor 8 349
+Lecturer 7 233
+Student 0 0
+UndergraduateStudent 417 13990
+GraduateStudent 113 4828
+TeachingAssistant 27 1074
+ResearchAssistant 33 1391
+Course 66 2474
+GraduateCourse 71 2530
+Publication 379 15005
+Chair 0 0
+Research 0 0
+ResearchGroup 20 566
+VisitingProfessor 9 323
+VisitingStudent 116 4103
+WebCourse 2530 49349
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4068
+TOTAL SO FAR: 107236
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3736 93994
+takesCourse 1827 64053
+teacherOf 208 7534
+undergraduateDegreeFrom 156 6502
+mastersDegreeFrom 43 1674
+doctoralDegreeFrom 43 1674
+advisor 242 9669
+memberOf 646 22921
+publicationAuthor 662 27092
+headOf 1 38
+teachingAssistantOf 27 1074
+researchInterest 36 1441
+emailAddress 689 24595
+telephone 689 24595
+subOrganizationOf 21 604
+worksFor 43 1674
+visitsAsProfessor 9 323
+durationOfVisit 125 4426
+visitsAsStudent 116 4103
+webCourseTopic 2530 49349
+url 2530 49349
+courseHours 2530 49349
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 16909
+TOTAL SO FAR: 446033
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_4.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 249 10463
+Department 1 39
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 333
+AssociateProfessor 12 457
+AssistantProfessor 8 357
+Lecturer 6 239
+Student 0 0
+UndergraduateStudent 330 14320
+GraduateStudent 111 4939
+TeachingAssistant 27 1101
+ResearchAssistant 33 1424
+Course 62 2536
+GraduateCourse 68 2598
+Publication 398 15403
+Chair 0 0
+Research 0 0
+ResearchGroup 19 585
+VisitingProfessor 8 331
+VisitingStudent 122 4225
+WebCourse 2598 51947
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4061
+TOTAL SO FAR: 111297
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3733 97727
+takesCourse 1553 65606
+teacherOf 198 7732
+undergraduateDegreeFrom 154 6656
+mastersDegreeFrom 43 1717
+doctoralDegreeFrom 43 1717
+advisor 240 9909
+memberOf 563 23484
+publicationAuthor 683 27775
+headOf 1 39
+teachingAssistantOf 27 1101
+researchInterest 37 1478
+emailAddress 606 25201
+telephone 606 25201
+subOrganizationOf 20 624
+worksFor 43 1717
+visitsAsProfessor 8 331
+durationOfVisit 130 4556
+visitsAsStudent 122 4225
+webCourseTopic 2598 51947
+url 2598 51947
+courseHours 2598 51947
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 16604
+TOTAL SO FAR: 462637
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_5.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 289 10752
+Department 1 40
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 343
+AssociateProfessor 13 470
+AssistantProfessor 11 368
+Lecturer 6 245
+Student 0 0
+UndergraduateStudent 395 14715
+GraduateStudent 128 5067
+TeachingAssistant 27 1128
+ResearchAssistant 36 1460
+Course 76 2612
+GraduateCourse 79 2677
+Publication 457 15860
+Chair 0 0
+Research 0 0
+ResearchGroup 13 598
+VisitingProfessor 10 341
+VisitingStudent 146 4371
+WebCourse 2677 54624
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4374
+TOTAL SO FAR: 115671
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4009 101736
+takesCourse 1898 67504
+teacherOf 234 7966
+undergraduateDegreeFrom 178 6834
+mastersDegreeFrom 50 1767
+doctoralDegreeFrom 50 1767
+advisor 276 10185
+memberOf 669 24153
+publicationAuthor 784 28559
+headOf 1 40
+teachingAssistantOf 27 1128
+researchInterest 44 1522
+emailAddress 719 25920
+telephone 719 25920
+subOrganizationOf 14 638
+worksFor 50 1767
+visitsAsProfessor 10 341
+durationOfVisit 156 4712
+visitsAsStudent 146 4371
+webCourseTopic 2677 54624
+url 2677 54624
+courseHours 2677 54624
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 18065
+TOTAL SO FAR: 480702
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_6.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 278 11030
+Department 1 41
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 352
+AssociateProfessor 12 482
+AssistantProfessor 11 379
+Lecturer 7 252
+Student 0 0
+UndergraduateStudent 330 15045
+GraduateStudent 124 5191
+TeachingAssistant 26 1154
+ResearchAssistant 41 1501
+Course 71 2683
+GraduateCourse 69 2746
+Publication 430 16290
+Chair 0 0
+Research 0 0
+ResearchGroup 10 608
+VisitingProfessor 9 350
+VisitingStudent 103 4474
+WebCourse 2746 57370
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4277
+TOTAL SO FAR: 119948
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3922 105658
+takesCourse 1589 69093
+teacherOf 209 8175
+undergraduateDegreeFrom 172 7006
+mastersDegreeFrom 48 1815
+doctoralDegreeFrom 48 1815
+advisor 247 10432
+memberOf 557 24710
+publicationAuthor 741 29300
+headOf 1 41
+teachingAssistantOf 26 1154
+researchInterest 41 1563
+emailAddress 605 26525
+telephone 605 26525
+subOrganizationOf 11 649
+worksFor 48 1815
+visitsAsProfessor 9 350
+durationOfVisit 112 4824
+visitsAsStudent 103 4474
+webCourseTopic 2746 57370
+url 2746 57370
+courseHours 2746 57370
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 17332
+TOTAL SO FAR: 498034
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_7.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 232 11262
+Department 1 42
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 361
+AssociateProfessor 10 492
+AssistantProfessor 8 387
+Lecturer 6 258
+Student 0 0
+UndergraduateStudent 399 15444
+GraduateStudent 100 5291
+TeachingAssistant 24 1178
+ResearchAssistant 27 1528
+Course 62 2745
+GraduateCourse 61 2807
+Publication 368 16658
+Chair 0 0
+Research 0 0
+ResearchGroup 16 624
+VisitingProfessor 8 358
+VisitingStudent 95 4569
+WebCourse 2807 60177
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4233
+TOTAL SO FAR: 124181
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 3934 109592
+takesCourse 1659 70752
+teacherOf 184 8359
+undergraduateDegreeFrom 141 7147
+mastersDegreeFrom 41 1856
+doctoralDegreeFrom 41 1856
+advisor 235 10667
+memberOf 594 25304
+publicationAuthor 624 29924
+headOf 1 42
+teachingAssistantOf 24 1178
+researchInterest 35 1598
+emailAddress 635 27160
+telephone 635 27160
+subOrganizationOf 17 666
+worksFor 41 1856
+visitsAsProfessor 8 358
+durationOfVisit 103 4927
+visitsAsStudent 95 4569
+webCourseTopic 2807 60177
+url 2807 60177
+courseHours 2807 60177
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 17468
+TOTAL SO FAR: 515502
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_8.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 251 11513
+Department 1 43
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 370
+AssociateProfessor 11 503
+AssistantProfessor 8 395
+Lecturer 6 264
+Student 0 0
+UndergraduateStudent 383 15827
+GraduateStudent 120 5411
+TeachingAssistant 25 1203
+ResearchAssistant 38 1566
+Course 60 2805
+GraduateCourse 67 2874
+Publication 394 17052
+Chair 0 0
+Research 0 0
+ResearchGroup 16 640
+VisitingProfessor 7 365
+VisitingStudent 82 4651
+WebCourse 2874 63051
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4352
+TOTAL SO FAR: 128533
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4022 113614
+takesCourse 1658 72410
+teacherOf 194 8553
+undergraduateDegreeFrom 161 7308
+mastersDegreeFrom 41 1897
+doctoralDegreeFrom 41 1897
+advisor 252 10919
+memberOf 585 25889
+publicationAuthor 713 30637
+headOf 1 43
+teachingAssistantOf 25 1203
+researchInterest 35 1633
+emailAddress 626 27786
+telephone 626 27786
+subOrganizationOf 17 683
+worksFor 41 1897
+visitsAsProfessor 7 365
+durationOfVisit 89 5016
+visitsAsStudent 82 4651
+webCourseTopic 2874 63051
+url 2874 63051
+courseHours 2874 63051
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 17838
+TOTAL SO FAR: 533340
+
+----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_9.owl
+----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 269 11782
+Department 1 44
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 380
+AssociateProfessor 13 516
+AssistantProfessor 9 404
+Lecturer 5 269
+Student 0 0
+UndergraduateStudent 350 16177
+GraduateStudent 129 5540
+TeachingAssistant 26 1229
+ResearchAssistant 39 1605
+Course 70 2875
+GraduateCourse 60 2934
+Publication 426 17478
+Chair 0 0
+Research 0 0
+ResearchGroup 14 654
+VisitingProfessor 7 372
+VisitingStudent 110 4761
+WebCourse 2934 65985
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4472
+TOTAL SO FAR: 133005
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4124 117738
+takesCourse 1644 74054
+teacherOf 190 8743
+undergraduateDegreeFrom 173 7481
+mastersDegreeFrom 44 1941
+doctoralDegreeFrom 44 1941
+advisor 249 11168
+memberOf 589 26478
+publicationAuthor 743 31380
+headOf 1 44
+teachingAssistantOf 26 1229
+researchInterest 39 1672
+emailAddress 633 28419
+telephone 633 28419
+subOrganizationOf 15 698
+worksFor 44 1941
+visitsAsProfessor 7 372
+durationOfVisit 117 5133
+visitsAsStudent 110 4761
+webCourseTopic 2934 65985
+url 2934 65985
+courseHours 2934 65985
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 18227
+TOTAL SO FAR: 551567
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_10.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 285 12067
+Department 1 45
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 388
+AssociateProfessor 13 529
+AssistantProfessor 8 412
+Lecturer 7 276
+Student 0 0
+UndergraduateStudent 327 16504
+GraduateStudent 136 5676
+TeachingAssistant 29 1258
+ResearchAssistant 41 1646
+Course 63 2938
+GraduateCourse 71 3005
+Publication 404 17882
+Chair 0 0
+Research 0 0
+ResearchGroup 14 668
+VisitingProfessor 10 382
+VisitingStudent 131 4892
+WebCourse 3005 68990
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4553
+TOTAL SO FAR: 137558
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4184 121922
+takesCourse 1674 75728
+teacherOf 205 8948
+undergraduateDegreeFrom 182 7663
+mastersDegreeFrom 46 1987
+doctoralDegreeFrom 46 1987
+advisor 265 11433
+memberOf 594 27072
+publicationAuthor 762 32142
+headOf 1 45
+teachingAssistantOf 29 1258
+researchInterest 39 1711
+emailAddress 640 29059
+telephone 640 29059
+subOrganizationOf 15 713
+worksFor 46 1987
+visitsAsProfessor 10 382
+durationOfVisit 141 5274
+visitsAsStudent 131 4892
+webCourseTopic 3005 68990
+url 3005 68990
+courseHours 3005 68990
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 18665
+TOTAL SO FAR: 570232
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_11.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 269 12336
+Department 1 46
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 396
+AssociateProfessor 10 539
+AssistantProfessor 11 423
+Lecturer 7 283
+Student 0 0
+UndergraduateStudent 463 16967
+GraduateStudent 128 5804
+TeachingAssistant 25 1283
+ResearchAssistant 40 1686
+Course 65 3003
+GraduateCourse 71 3076
+Publication 367 18249
+Chair 0 0
+Research 0 0
+ResearchGroup 10 678
+VisitingProfessor 8 390
+VisitingStudent 109 5001
+WebCourse 3076 72066
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4668
+TOTAL SO FAR: 142226
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4324 126246
+takesCourse 1955 77683
+teacherOf 207 9155
+undergraduateDegreeFrom 172 7835
+mastersDegreeFrom 44 2031
+doctoralDegreeFrom 44 2031
+advisor 280 11713
+memberOf 700 27772
+publicationAuthor 648 32790
+headOf 1 46
+teachingAssistantOf 25 1283
+researchInterest 37 1748
+emailAddress 744 29803
+telephone 744 29803
+subOrganizationOf 11 724
+worksFor 44 2031
+visitsAsProfessor 8 390
+durationOfVisit 117 5391
+visitsAsStudent 109 5001
+webCourseTopic 3076 72066
+url 3076 72066
+courseHours 3076 72066
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 19442
+TOTAL SO FAR: 589674
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_12.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 249 12585
+Department 1 47
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 405
+AssociateProfessor 12 551
+AssistantProfessor 8 431
+Lecturer 6 289
+Student 0 0
+UndergraduateStudent 305 17272
+GraduateStudent 107 5911
+TeachingAssistant 22 1305
+ResearchAssistant 33 1719
+Course 67 3070
+GraduateCourse 63 3139
+Publication 420 18669
+Chair 0 0
+Research 0 0
+ResearchGroup 13 691
+VisitingProfessor 9 399
+VisitingStudent 117 5118
+WebCourse 3139 75205
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4580
+TOTAL SO FAR: 146806
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4263 130509
+takesCourse 1462 79145
+teacherOf 193 9348
+undergraduateDegreeFrom 151 7986
+mastersDegreeFrom 44 2075
+doctoralDegreeFrom 44 2075
+advisor 239 11952
+memberOf 529 28301
+publicationAuthor 713 33503
+headOf 1 47
+teachingAssistantOf 22 1305
+researchInterest 38 1786
+emailAddress 573 30376
+telephone 573 30376
+subOrganizationOf 14 738
+worksFor 44 2075
+visitsAsProfessor 9 399
+durationOfVisit 126 5517
+visitsAsStudent 117 5118
+webCourseTopic 3139 75205
+url 3139 75205
+courseHours 3139 75205
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 18572
+TOTAL SO FAR: 608246
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_13.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 273 12858
+Department 1 48
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 414
+AssociateProfessor 10 561
+AssistantProfessor 10 441
+Lecturer 6 295
+Student 0 0
+UndergraduateStudent 376 17648
+GraduateStudent 127 6038
+TeachingAssistant 30 1335
+ResearchAssistant 34 1753
+Course 72 3142
+GraduateCourse 67 3206
+Publication 392 19061
+Chair 0 0
+Research 0 0
+ResearchGroup 14 705
+VisitingProfessor 10 409
+VisitingStudent 129 5247
+WebCourse 3206 78411
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4766
+TOTAL SO FAR: 151572
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4415 134924
+takesCourse 1796 80941
+teacherOf 206 9554
+undergraduateDegreeFrom 172 8158
+mastersDegreeFrom 45 2120
+doctoralDegreeFrom 45 2120
+advisor 264 12216
+memberOf 632 28933
+publicationAuthor 664 34167
+headOf 1 48
+teachingAssistantOf 30 1335
+researchInterest 39 1825
+emailAddress 677 31053
+telephone 677 31053
+subOrganizationOf 15 753
+worksFor 45 2120
+visitsAsProfessor 10 409
+durationOfVisit 139 5656
+visitsAsStudent 129 5247
+webCourseTopic 3206 78411
+url 3206 78411
+courseHours 3206 78411
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 19619
+TOTAL SO FAR: 627865
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_14.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 273 13131
+Department 1 49
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 424
+AssociateProfessor 14 575
+AssistantProfessor 11 452
+Lecturer 5 300
+Student 0 0
+UndergraduateStudent 409 18057
+GraduateStudent 120 6158
+TeachingAssistant 25 1360
+ResearchAssistant 37 1790
+Course 71 3213
+GraduateCourse 76 3282
+Publication 457 19518
+Chair 0 0
+Research 0 0
+ResearchGroup 20 725
+VisitingProfessor 8 417
+VisitingStudent 144 5391
+WebCourse 3282 81693
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4963
+TOTAL SO FAR: 156535
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4608 139532
+takesCourse 1916 82857
+teacherOf 223 9777
+undergraduateDegreeFrom 168 8326
+mastersDegreeFrom 48 2168
+doctoralDegreeFrom 48 2168
+advisor 293 12509
+memberOf 673 29606
+publicationAuthor 753 34920
+headOf 1 49
+teachingAssistantOf 25 1360
+researchInterest 43 1868
+emailAddress 721 31774
+telephone 721 31774
+subOrganizationOf 21 774
+worksFor 48 2168
+visitsAsProfessor 8 417
+durationOfVisit 152 5808
+visitsAsStudent 144 5391
+webCourseTopic 3282 81693
+url 3282 81693
+courseHours 3282 81693
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 20460
+TOTAL SO FAR: 648325
+
+-----------------------------------------------------------
+F:\IdCode\DynamicGraph_new\EvoGen-master\University2_15.owl
+-----------------------------------------------------------
+External Seed=0 Interal Seed=2
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 278 13409
+Department 1 50
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 433
+AssociateProfessor 10 585
+AssistantProfessor 10 462
+Lecturer 7 307
+Student 0 0
+UndergraduateStudent 384 18441
+GraduateStudent 141 6299
+TeachingAssistant 34 1394
+ResearchAssistant 40 1830
+Course 59 3272
+GraduateCourse 63 3345
+Publication 399 19917
+Chair 0 0
+Research 0 0
+ResearchGroup 17 742
+VisitingProfessor 7 424
+VisitingStudent 103 5494
+WebCourse 3345 85038
+ResearchProject 0 0
+Event 0 0
+ConferencePublication 0 0
+JournalArticle 0 0
+TechnicalReport 0 0
+Book 0 0
+Thesis 0 0
+
+TOTAL: 4907
+TOTAL SO FAR: 161442
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 4538 144070
+takesCourse 1740 84597
+teacherOf 185 9962
+undergraduateDegreeFrom 184 8510
+mastersDegreeFrom 43 2211
+doctoralDegreeFrom 43 2211
+advisor 271 12780
+memberOf 628 30234
+publicationAuthor 735 35655
+headOf 1 50
+teachingAssistantOf 34 1394
+researchInterest 36 1904
+emailAddress 671 32445
+telephone 671 32445
+subOrganizationOf 18 792
+worksFor 43 2211
+visitsAsProfessor 7 424
+durationOfVisit 110 5918
+visitsAsStudent 103 5494
+webCourseTopic 3345 85038
+url 3345 85038
+courseHours 3345 85038
+projectDuration 0 0
+fundedBy 0 0
+scientificAdvisor 0 0
+budget 0 0
+researchGroup 0 0
+eventType 0 0
+eventOrganizer 0 0
+date 0 0
+isbn 0 0
+venue 0 0
+editorInChief 0 0
+technicalReportID 0 0
+supervisor 0 0
+
+TOTAL: 20096
+TOTAL SO FAR: 668421
+
