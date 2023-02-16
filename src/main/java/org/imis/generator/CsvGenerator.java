@@ -11,11 +11,11 @@ import java.util.List;
 public class CsvGenerator extends MiddleGenerator_new{
 
     public void start(int univNum, int startIndex, int seed, boolean daml,
-                      String ontology,boolean evo,int evoVersions,double evoChange,double strict){
+                      String ontology,boolean evo,int evoVersions,double evoChange,String type){
         this.evoChange = evoChange;
         this.evo = evo;
         this.evoVersions = evoVersions;
-        this.strict = strict;
+        //this.strict = strict;
 
         this.ontology = ontology;
 
@@ -32,22 +32,37 @@ public class CsvGenerator extends MiddleGenerator_new{
         this.instances_[CS_C_UNIV].count = startIndex;
         //this.evo = evo;
 
-        evo = false;
+        //evo = true;
         if(!evo){
             _generate();
             System.out.println("See log.txt for more details.");
             return;
         }
 
-        _generate(evoVersions);
+        _generate(evoVersions,evoChange,type);
 
         System.out.println("See log.txt for more details.");
 
     }
-
+    private void delFile(File file){
+        if(file.isDirectory()){
+            for(File f: file.listFiles()){
+                delFile(f);
+            }
+            file.delete();
+        }
+        else{
+            file.delete();
+        }
+    }
     private void _generate() {
         System.out.println("Started...");
         try {
+            String path = System.getProperty("user.dir") + "\\Csv\\";
+            delFile(new File(path));
+            new File(path).mkdirs();
+
+
             log_ = new PrintStream(new FileOutputStream(System.getProperty("user.dir") +
                     "\\Csv\\" + LOG_FILE));
             //writer_.start();
@@ -56,6 +71,31 @@ public class CsvGenerator extends MiddleGenerator_new{
 
             for (int i = 0; i < instances_[CS_C_UNIV].num; i++) {
                 _generateUniv(i + startIndex_);
+            }
+
+            //writer_.end();
+            log_.close();
+        }
+        catch (IOException e) {
+            System.out.println("Failed to create log file!");
+        }
+        System.out.println("Completed!");
+    }
+    private void _generate(int versions, double evoChange,String type){
+        System.out.println("Started...");
+        try {
+            String path = System.getProperty("user.dir") + "\\Csv\\";
+            delFile(new File(path));
+            new File(path).mkdirs();
+
+            log_ = new PrintStream(new FileOutputStream(System.getProperty("user.dir") +
+                    "\\Csv\\" + LOG_FILE));
+            //writer_.start();
+
+            // IdGenerator idGen = new IdGenerator();
+
+            for (int i = 0; i < instances_[CS_C_UNIV].num; i++) {
+                _generateUniv(i + startIndex_,versions,evoChange,type);
             }
 
             //writer_.end();
@@ -264,6 +304,26 @@ public class CsvGenerator extends MiddleGenerator_new{
     }
 
 
+    private void _generateUniv(int index,int versions, double evoChange,String type){
+        seed_ = baseSeed_ * (Integer.MAX_VALUE + 1) + index;
+        random_.setSeed(seed_);
+
+        //determine department number
+        instances_[CS_C_DEPT].num = _getRandomFromRange(DEPT_MIN, DEPT_MAX);
+        instances_[CS_C_DEPT].count = 0;
+        //generate departments
+        //if(!evo){
+
+
+        instances_[CS_C_DEPT].num = 1;
+        for (int i = 0; i < instances_[CS_C_DEPT].num; i++) {
+            //System.out.println("index: " + i);
+            _generateDept(index, i,versions,evoChange,type);
+            //String fileName = "University"+index+"_"+i+".owl";
+            //assignWeights(fileName);
+
+        }
+    }
 
     private void _generateUniv(int index) {
         //this transformation guarantees no different pairs of (index, baseSeed) generate the same data

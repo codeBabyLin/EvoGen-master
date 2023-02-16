@@ -257,6 +257,8 @@ public class Constant {
     public static final int GRAD_COURSE_NUM = 100; //must >= max faculty # * FACULTY_GRADCOURSE_MAX
 
     public static final int WEB_COURSE_NUM = 100; //must >= max faculty # * FACULTY_GRADCOURSE_MAX
+
+    public static final int PUBLICATION_NUM = 1000;
     /** size of the pool of universities */
     public static final int UNIV_NUM = 1000;
     /** size of the pool of reasearch areas */

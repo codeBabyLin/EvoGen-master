@@ -1,6 +1,7 @@
 package org.imis.generator;
 
 import com.hp.hpl.jena.vocabulary.RDF;
+import org.apache.commons.lang3.StringUtils;
 import org.imis.generator.Infor.*;
 import org.imis.generator.instance.*;
 
@@ -9,6 +10,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.*;
+import java.util.function.BiConsumer;
 
 
 public class MiddleGenerator_new extends Constant {
@@ -70,15 +72,42 @@ public class MiddleGenerator_new extends Constant {
     public ArrayList<ProfessorInstance> c_Professors =new ArrayList<>();
 
     public ArrayList<StudentInstance> c_Students =new ArrayList<>();
+
+
     public ArrayList<PublicationInstance> c_Publications =new ArrayList<>();
 
     public ArrayList<WebCourseInstance> c_WEbCourses =new ArrayList<>();
     public ArrayList<UnderCourseInstance> c_UnderCourses = new ArrayList<>();
     public ArrayList<GraduCourseInstance> c_GraduCourses = new ArrayList<>();
 
+
+    public ArrayList<PublicationInstance> c_RemainPublications =new ArrayList<>();
     public ArrayList<WebCourseInstance> c_RemainWEbCourses =new ArrayList<>();
     public ArrayList<UnderCourseInstance> c_RemainUnderCourses = new ArrayList<>();
     public ArrayList<GraduCourseInstance> c_RemainGraduCourses = new ArrayList<>();
+
+    public ArrayList<ProfessorInstance> c_Professors_add =new ArrayList<>();
+    public ArrayList<ProfessorInstance> c_Professors_del =new ArrayList<>();
+
+    public ArrayList<StudentInstance> c_Students_add =new ArrayList<>();
+    public ArrayList<StudentInstance> c_Students_del =new ArrayList<>();
+
+    public ArrayList<PublicationInstance> c_Publications_add =new ArrayList<>();
+    public ArrayList<PublicationInstance> c_Publications_del =new ArrayList<>();
+
+    public ArrayList<WebCourseInstance> c_WEbCourses_add =new ArrayList<>();
+    public ArrayList<UnderCourseInstance> c_UnderCourses_add = new ArrayList<>();
+    public ArrayList<GraduCourseInstance> c_GraduCourses_add = new ArrayList<>();
+    public ArrayList<WebCourseInstance> c_WEbCourses_del =new ArrayList<>();
+    public ArrayList<UnderCourseInstance> c_UnderCourses_del = new ArrayList<>();
+    public ArrayList<GraduCourseInstance> c_GraduCourses_del = new ArrayList<>();
+
+    public HashMap<Integer, ArrayList<Integer>> authors_add = new HashMap<Integer, ArrayList<Integer>>();
+    public HashMap<Integer, ArrayList<Integer>> takeCourses_add = new HashMap<Integer, ArrayList<Integer>>();
+    public HashMap<Integer, ArrayList<Integer>> teachs_add = new HashMap<Integer, ArrayList<Integer>>();
+    public HashMap<Integer, ArrayList<Integer>> authors_del = new HashMap<Integer, ArrayList<Integer>>();
+    public HashMap<Integer, ArrayList<Integer>> takeCourses_del = new HashMap<Integer, ArrayList<Integer>>();
+    public HashMap<Integer, ArrayList<Integer>> teachs_del = new HashMap<Integer, ArrayList<Integer>>();
 
     IdGenerator idGen = new IdGenerator();
 
@@ -100,13 +129,13 @@ public class MiddleGenerator_new extends Constant {
 
         random_ = new Random();
         //underCourses_ = new ArrayList();
-        //gradCourses_ = new ArrayList();
-        //webCourses_ = new ArrayList();
-        //remainingUnderCourses_ = new ArrayList();
-        //remainingGradCourses_ = new ArrayList();
-        //remainingWebCourses_ = new ArrayList();
-        //publications_ = new ArrayList();
-        //projects_ = new ArrayList();
+        //        //gradCourses_ = new ArrayList();
+        //        //webCourses_ = new ArrayList();
+        //        //remainingUnderCourses_ = new ArrayList();
+        //        //remainingGradCourses_ = new ArrayList();
+        //        //remainingWebCourses_ = new ArrayList();
+        //        //publications_ = new ArrayList();
+        //        //projects_ = new ArrayList();
     }
 //CS_C_FULLPROF,CS_C_VISITINGPROF,CS_C_ASSOPROF,CS_C_ASSTPROF,CS_C_LECTURER,CS_C_UNDERSTUD,CS_C_VISITSTUD,CS_C_GRADSTUD,CS_C_TA,CS_C_RA,CS_C_RESEARCHGROUP
     private void _setInstanceInfo() {
@@ -178,7 +207,166 @@ public class MiddleGenerator_new extends Constant {
             }
         }
     }
+    public void WriteCsvDelta(String dirPath){
+        new File(dirPath).mkdirs();
+        try {
+            if(c_UnderCourses_add.size()>0 || c_GraduCourses_add.size()>0) {
+                PrintStream courseaddPrint = new PrintStream(new FileOutputStream(new File(dirPath, "courseADD.csv")));
+                courseaddPrint.println("id,name");
+                for (UnderCourseInstance ui : c_UnderCourses_add) {
+                    courseaddPrint.println(ui.getId() + "," + ui.getName());
+                }
+                for (GraduCourseInstance ui : c_GraduCourses_add) {
+                    courseaddPrint.println(ui.getId() + "," + ui.getName());
+                }
+            }
+            if(c_UnderCourses_del.size()>0 || c_GraduCourses_del.size() >0) {
+                PrintStream courseaddPrint = new PrintStream(new FileOutputStream(new File(dirPath, "courseDel.csv")));
+                courseaddPrint.println("id,name");
+                for (UnderCourseInstance ui : c_UnderCourses_del) {
+                    courseaddPrint.println(ui.getId() + "," + ui.getName());
+                }
+                for (GraduCourseInstance ui : c_GraduCourses_del) {
+                    courseaddPrint.println(ui.getId() + "," + ui.getName());
+                }
+            }
+            if(c_WEbCourses_add.size() >0) {
+                PrintStream courseaddPrint = new PrintStream(new FileOutputStream(new File(dirPath, "webcourseADD.csv")));
+                courseaddPrint.println("id,name,topic,url,hours");
+                for (WebCourseInstance wi : c_WEbCourses_add) {
+                    courseaddPrint.println(wi.getId() + "," + wi.getName() + "," + wi.getWebCourseTopic() + "," + wi.getUrl() + "," + wi.getCourseHours());
+                }
+            }
+            if(c_WEbCourses_del.size() >0) {
+                PrintStream courseaddPrint = new PrintStream(new FileOutputStream(new File(dirPath, "webcourseDel.csv")));
+                courseaddPrint.println("id,name,topic,url,hours");
+                for (WebCourseInstance wi : c_WEbCourses_del) {
+                    courseaddPrint.println(wi.getId() + "," + wi.getName() + "," + wi.getWebCourseTopic() + "," + wi.getUrl() + "," + wi.getCourseHours());
+                }
+            }
+            if(c_Professors_add.size()>0) {
+                PrintStream professorPrint = new PrintStream(new FileOutputStream(new File(dirPath, "professorADD.csv")));
+                professorPrint.println("id,name,type,emailAddress,researchInterest");
+                for (ProfessorInstance pi : c_Professors_add) {
+                    professorPrint.println(pi.getId() + "," + pi.getName() + "," + pi.getType() + "," + pi.getEmailAddress() + "," + pi.getResearchInterest());
 
+                }
+            }
+            if(c_Professors_del.size()>0){
+                PrintStream professorPrint = new PrintStream(new FileOutputStream(new File(dirPath, "professorDel.csv")));
+                professorPrint.println("id,name,type,emailAddress,researchInterest");
+                for (ProfessorInstance pi : c_Professors_del) {
+                    professorPrint.println(pi.getId() + "," + pi.getName() + "," + pi.getType() + "," + pi.getEmailAddress() + "," + pi.getResearchInterest());
+
+                }
+            }
+
+
+            if(c_Students_add.size()>0) {
+                PrintStream stuPrint = new PrintStream(new FileOutputStream(new File(dirPath, "studentsADD.csv")));
+                stuPrint.println("id,name,type,emailaddress");
+                for (StudentInstance si : c_Students_add) {
+                    stuPrint.println(si.getId() + "," + si.getName() + "," + si.getType() + "," + si.getEmailAddress());
+                }
+            }
+
+            if(c_Students_del.size()>0) {
+                PrintStream stuPrint = new PrintStream(new FileOutputStream(new File(dirPath, "studentsDel.csv")));
+                stuPrint.println("id,name,type,emailaddress");
+                for (StudentInstance si : c_Students_del) {
+                    stuPrint.println(si.getId() + "," + si.getName() + "," + si.getType() + "," + si.getEmailAddress());
+                }
+            }
+
+            if(c_Publications_add.size()>0) {
+                PrintStream pubPrint = new PrintStream(new FileOutputStream(new File(dirPath, "publicationADD.csv")));
+                pubPrint.println("id,name");
+                for (PublicationInstance pi : c_Publications_add) {
+                    pubPrint.println(pi.getId() + "," + pi.getName());
+                }
+            }
+            if(c_Publications_del.size()>0) {
+                PrintStream pubPrint = new PrintStream(new FileOutputStream(new File(dirPath, "publicationDel.csv")));
+                pubPrint.println("id,name");
+                for (PublicationInstance pi : c_Publications_del) {
+                    pubPrint.println(pi.getId() + "," + pi.getName());
+                }
+            }
+            if(takeCourses_add.size()>0) {
+                PrintStream takeCoursePrint = new PrintStream(new FileOutputStream(new File(dirPath, "takeCourseAdd.csv")));
+                takeCoursePrint.println("id,CoursesId");
+                takeCourses_add.forEach(new BiConsumer<Integer, ArrayList<Integer>>() {
+                    @Override
+                    public void accept(Integer integer, ArrayList<Integer> integers) {
+                        String str5 = StringUtils.join(integers, " ");
+                        takeCoursePrint.println(integer + "," + str5);
+                    }
+                });
+            }
+            if(takeCourses_del.size()>0) {
+                PrintStream takeCoursePrint = new PrintStream(new FileOutputStream(new File(dirPath, "takeCourseDel.csv")));
+                takeCoursePrint.println("id,CoursesId");
+                takeCourses_del.forEach(new BiConsumer<Integer, ArrayList<Integer>>() {
+                    @Override
+                    public void accept(Integer integer, ArrayList<Integer> integers) {
+                        String str5 = StringUtils.join(integers, " ");
+                        takeCoursePrint.println(integer + "," + str5);
+                    }
+                });
+            }
+
+            if(teachs_add.size()>0) {
+                PrintStream teachPrint = new PrintStream(new FileOutputStream(new File(dirPath, "teachAdd.csv")));
+                teachPrint.println("id,coursesId");
+                teachs_add.forEach(new BiConsumer<Integer, ArrayList<Integer>>() {
+                    @Override
+                    public void accept(Integer integer, ArrayList<Integer> integers) {
+                        String str5 = StringUtils.join(integers, " ");
+                        teachPrint.println(integer + "," + str5);
+                    }
+                });
+            }
+            if(teachs_del.size()>0) {
+                PrintStream teachPrint = new PrintStream(new FileOutputStream(new File(dirPath, "teachDel.csv")));
+                teachPrint.println("id,coursesId");
+                teachs_del.forEach(new BiConsumer<Integer, ArrayList<Integer>>() {
+                    @Override
+                    public void accept(Integer integer, ArrayList<Integer> integers) {
+                        String str5 = StringUtils.join(integers, " ");
+                        teachPrint.println(integer + "," + str5);
+                    }
+                });
+            }
+
+            if(authors_add.size()>0) {
+                PrintStream authorsPrint = new PrintStream(new FileOutputStream(new File(dirPath, "authorsAdd.csv")));
+                authorsPrint.println("pid,authorIds");
+                authors_add.forEach(new BiConsumer<Integer, ArrayList<Integer>>() {
+                    @Override
+                    public void accept(Integer integer, ArrayList<Integer> integers) {
+                        String str5 = StringUtils.join(integers, " ");
+                        authorsPrint.println(integer + "," + str5);
+                    }
+                });
+
+            }
+            if(authors_del.size()>0) {
+                PrintStream authorsPrint = new PrintStream(new FileOutputStream(new File(dirPath, "authorsDel.csv")));
+                authorsPrint.println("pid,authorIds");
+                authors_del.forEach(new BiConsumer<Integer, ArrayList<Integer>>() {
+                    @Override
+                    public void accept(Integer integer, ArrayList<Integer> integers) {
+                        String str5 = StringUtils.join(integers, " ");
+                        authorsPrint.println(integer + "," + str5);
+                    }
+                });
+
+            }
+
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+    }
     public void WriteCsv(String dirPath)  {
         try {
             PrintStream coursePrint = new PrintStream(new FileOutputStream(new File(dirPath, "course.csv")));
@@ -186,17 +374,51 @@ public class MiddleGenerator_new extends Constant {
             for (UnderCourseInstance ui : c_UnderCourses) {
                 coursePrint.println(ui.getId() + "," + ui.getName());
             }
+            for (GraduCourseInstance gi : c_GraduCourses) {
+                coursePrint.println(gi.getId() + "," + gi.getName());
+            }
 
             PrintStream webCoursePrint = new PrintStream(new FileOutputStream(new File(dirPath, "webCourse.csv")));
-            coursePrint.println("id,name,topic,url,hours");
+            webCoursePrint.println("id,name,topic,url,hours");
             for (WebCourseInstance wi : c_WEbCourses) {
                 webCoursePrint.println(wi.getId() + "," + wi.getName()+","+wi.getWebCourseTopic()+","+wi.getUrl()+","+wi.getCourseHours());
             }
 
-            PrintStream student = new PrintStream(new FileOutputStream(new File(dirPath, "student.csv")));
-            coursePrint.println("id,name,topic,url,hours");
-            for (WebCourseInstance wi : c_WEbCourses) {
-                webCoursePrint.println(wi.getId() + "," + wi.getName()+","+wi.getWebCourseTopic()+","+wi.getUrl()+","+wi.getCourseHours());
+            PrintStream studentPrint = new PrintStream(new FileOutputStream(new File(dirPath, "student.csv")));
+            studentPrint.println("id,name,type,emailaddress");
+            PrintStream takeCoursetPrint = new PrintStream(new FileOutputStream(new File(dirPath, "takeCourse.csv")));
+            takeCoursetPrint.println("id,CoursesId");
+
+            for (StudentInstance si : c_Students) {
+                studentPrint.println(si.getId() + "," + si.getName()+","+si.getType()+","+si.getEmailAddress());
+                String str5 = StringUtils.join(si.getTakeCourses()," ");
+                takeCoursetPrint.println(si.getId()+","+str5);
+            }
+
+            PrintStream publicationPrint = new PrintStream(new FileOutputStream(new File(dirPath, "publication.csv")));
+            publicationPrint.println("id,name");
+
+            PrintStream publicationAuthor = new PrintStream(new FileOutputStream(new File(dirPath, "authors.csv")));
+            publicationAuthor.println("pid,authorIds");
+
+            for (PublicationInstance pi : c_Publications) {
+                if(pi.isLive()) {
+                    publicationPrint.println(pi.getId() + "," + pi.getName());
+                    String str4 = StringUtils.join(pi.getPublicationAuthor(), " ");
+                    publicationAuthor.println(pi.getId() + "," + str4);
+                }
+            }
+
+            PrintStream profPrint = new PrintStream(new FileOutputStream(new File(dirPath, "professor.csv")));
+            profPrint.println("id,name,type,emailAddress,researchInterest");
+
+            PrintStream teachCoursefPrint = new PrintStream(new FileOutputStream(new File(dirPath, "teach.csv")));
+            teachCoursefPrint.println("id,coursesId");
+
+            for (ProfessorInstance pi : c_Professors) {
+                profPrint.println(pi.getId() + "," + pi.getName()+","+pi.getType()+","+pi.getEmailAddress()+","+pi.getResearchInterest());
+                String str = StringUtils.join(pi.getCourses()," ");
+                teachCoursefPrint.println(pi.getId()+","+str);
             }
 
 
@@ -209,12 +431,225 @@ public class MiddleGenerator_new extends Constant {
         }*/
     }
 
+    //entity with relation $ relation
+    //-  professor -> publication ,course
+    //+
 
-    public void _generateDept(int univIndex, int index)  {
-        totalDeptsV0++;
-        String fileName = System.getProperty("user.dir") + "\\" + _getName(CS_C_UNIV, univIndex) + INDEX_DELIMITER + index + _getFileSuffix();
+    //- student
+    //+ student publication course ->>()
 
+    //relation add
+
+
+    private void delAuthors(double evoChange){
+        int num = (int) (c_Publications.size() * evoChange);
+        //ArrayList list = _getRandomList(num, 0, c_Publications.size()-1);
+        for(int i = 0;i<num;i++){
+            int pos = _getRandomFromRange(0,c_Publications.size()-1);
+            PublicationInstance pi = c_Publications.get(pos);
+            c_Publications_del.add(pi);
+            c_Publications.remove(pos);
+            //pi.setLive(false);
+            authors_del.put(pi.getId(),pi.getPublicationAuthor());
+        }
+
+    }
+    private void delTakeCourses(double evoChange){
+        int num = (int) (c_Students.size() * evoChange);
+        ArrayList list = _getRandomList(num, 0, c_Students.size()-1);
+        for(int i = 0;i<list.size();i++){
+            int pos = (int) list.get(i);
+            StudentInstance si = c_Students.get(pos);
+            takeCourses_del.put(si.getId(),si.getTakeCourses());
+            si.clearCourse();
+        }
+    }
+
+
+    private void addStudents(double evoChange){
+        int sSize = c_Students.size();
+        int num = (int) (sSize * evoChange);
+
+        for (int i = sSize;i<sSize+num;i++){
+            int type = _getRandomFromRange(1,3);
+            switch(type){
+                case 1:{
+                    _updateCount(CS_C_GRADSTUD);
+                   _generateAGradudateStudent(i);
+                   break;
+                }
+                case 2:{
+                    _updateCount(CS_C_VISITSTUD);
+                   _generateAVisitingStudent(i);
+                    break;
+                }
+                case 3:{
+                    _updateCount(CS_C_UNDERSTUD);
+                   _generateAnUndergraduateStudent(i);
+                    break;
+                }
+            }
+        }
+    }
+    private void addProfessors(double evoChange){ //course add pub add,  teach 和 author
+        int pSize = c_Professors.size();
+        int num = (int) (pSize * evoChange);
+        for(int i = pSize;i< pSize + num;i++){
+            ProfessorInstance pi = new ProfessorInstance();
+            pi.setId(getNextId());
+            int type = _getRandomFromRange(CS_C_FULLPROF,CS_C_LECTURER);
+            _updateCount(type);
+            _generateAProfessor(i,type,pi);
+            c_Professors.add(pi);
+            c_Professors_add.add(pi);
+        }
+
+    }
+
+    private void addauthors(double evoChange){
+        int size = c_Students.size();
+        int num = (int) (size * evoChange);
+
+        ArrayList list = _getRandomList(num, 0, c_Students.size()-1);
+        for (int i = 0; i < list.size(); i++) {
+            //si.takeCourse(c_GraduCourses.get((int)list.get(i)).getId());
+            StudentInstance si = c_Students.get((int)list.get(i));
+            int pNum = _getRandomFromRange(GRADSTUD_PUB_MIN,GRADSTUD_PUB_MAX);
+            ArrayList list2 = _getRandomList(pNum, 0, c_Publications.size()-1);
+            for (int j = 0;j<list2.size();j++){
+                PublicationInstance pi = c_Publications.get((int)list2.get(j));
+                pi.addPublicationAuthor(si.getId());
+                authors_add.put(pi.getId(),pi.getPublicationAuthor());
+            }
+        }
+    }
+    private void addtakeCourses(double evoChange){
+
+        int size = c_Students.size();
+        int num = (int) (size * evoChange);
+
+        ArrayList list = _getRandomList(num, 0, c_Students.size()-1);
+        for (int i = 0; i < list.size(); i++) {
+            StudentInstance si = c_Students.get((int)list.get(i));
+            int n = _getRandomFromRange(GRADSTUD_COURSE_MIN, GRADSTUD_COURSE_MAX);
+            ArrayList list2 = _getRandomList(n, 0, c_GraduCourses.size() - 1);
+            for (int j = 0; j < list2.size(); j++) {
+                si.takeCourse(c_GraduCourses.get((int)list2.get(j)).getId());
+            }
+            takeCourses_add.put(si.getId(),si.getTakeCourses());
+        }
+
+
+    }
+
+    private void addBasicEntity(double evoChange){
+        int courseSum = c_UnderCourses.size() + c_RemainUnderCourses.size();
+        for (int i =courseSum ; i < courseSum*(1+evoChange); i++) {
+            UnderCourseInstance ui = new UnderCourseInstance();
+            ui.setId(getNextId());
+            ui.setName(_getRelativeName(CS_C_COURSE,i));
+            c_RemainUnderCourses.add(ui);
+        }
+        courseSum = c_GraduCourses.size() + c_RemainGraduCourses.size();
+        for (int i = courseSum; i < courseSum*(1+evoChange); i++) {
+            GraduCourseInstance  gi = new GraduCourseInstance();
+            gi.setId(getNextId());
+            gi.setName(_getRelativeName(CS_C_GRADCOURSE, i));
+            c_RemainGraduCourses.add(gi);
+        }
+        courseSum = c_WEbCourses.size() + c_RemainWEbCourses.size();
+        for (int i = courseSum; i < courseSum*(1+evoChange); i++) {
+            WebCourseInstance wi = new WebCourseInstance();
+            wi.setId(getNextId());
+            wi.setName(_getRelativeName(CS_C_WEBCOURSE,i));
+            c_RemainWEbCourses.add(wi);
+        }
+        int pubNum = c_Publications.size() + c_RemainPublications.size();
+        for(int i = pubNum;i<pubNum*(1+evoChange);i++){
+            PublicationInstance pi = new PublicationInstance();
+            pi.setId(getNextId());
+            pi.setName(_getRelativeName(CS_C_PUBLICATION,i));
+            c_RemainPublications.add(pi);
+        }
+    }
+    public void _generateDept(int univIndex, int index,int versions, double evoChange){
+        _generateDept(univIndex,index,versions,evoChange,"r");
+    }
+
+    public void _generateDept(int univIndex, int index,int versions, double evoChange,String changeType){
+        String type = changeType;
+        for(int i = 0;i<versions;i++){
+            String dirPath = System.getProperty("user.dir") + "\\Csv\\V"+i+"\\"+ _getName(CS_C_UNIV, univIndex)+ INDEX_DELIMITER + index;
+            new File(dirPath).mkdirs();
+            if( i== 0){ //v0
+                _generateDept(univIndex,index,dirPath);
+            }
+            else{
+                c_Professors_add.clear();
+                c_Professors_del.clear();
+                c_Students_add.clear();
+                c_Students_del.clear();
+                c_GraduCourses_add.clear();
+                c_GraduCourses_del.clear();
+                c_UnderCourses_add.clear();
+                c_UnderCourses_del.clear();
+                c_WEbCourses_add.clear();
+                c_WEbCourses_del.clear();
+                c_Publications_add.clear();
+                c_Publications_del.clear();
+                authors_add.clear();
+                authors_del.clear();
+                takeCourses_add.clear();
+                takeCourses_del.clear();
+                teachs_add.clear();
+                teachs_del.clear();
+                if(changeType.equals("r")){
+                    type = i %2 == 0?"r+":"r-";
+                }
+                switch (type) {
+                    case "r+":{
+                        addBasicEntity(evoChange);
+                        addProfessors(evoChange);
+                        addStudents(evoChange);
+                        WriteCsv(dirPath);
+                        String deltaPath = new File(dirPath,"change").getAbsolutePath();
+                        WriteCsvDelta(deltaPath);
+                        break;
+                        //
+                    }
+                    case "r-":{
+                        delAuthors(evoChange);
+                        delTakeCourses(evoChange);
+                        WriteCsv(dirPath);
+                        String deltaPath = new File(dirPath,"change").getAbsolutePath();
+                        WriteCsvDelta(deltaPath);
+                        break;
+                    }
+                    default:
+                        break;
+
+                }
+            }
+
+        }
+    }
+
+    public void _generateDept(int univIndex, int index){
         String dirPath = System.getProperty("user.dir") + "\\Csv\\"+ _getName(CS_C_UNIV, univIndex)+ INDEX_DELIMITER + index;
+        _generateDept(univIndex,index,dirPath);
+    }
+
+    public void _generateDept(int univIndex, int index,String dirPath)  {
+        //-  professor -> publication ,course
+        //+
+
+        //- student
+        //+ student publication course ->>()
+
+        //totalDeptsV0++;
+        //String fileName = System.getProperty("user.dir") + "\\" + _getName(CS_C_UNIV, univIndex) + INDEX_DELIMITER + index + _getFileSuffix();
+
+
         new File(dirPath).mkdirs();
         _setInstanceInfo();
 
@@ -226,6 +661,9 @@ public class MiddleGenerator_new extends Constant {
         c_RemainGraduCourses.clear();
         c_RemainUnderCourses.clear();
         c_RemainWEbCourses.clear();
+
+        c_Publications.clear();
+        c_RemainPublications.clear();
 
         for (int i = 0; i < UNDER_COURSE_NUM; i++) {
             UnderCourseInstance ui = new UnderCourseInstance();
@@ -245,8 +683,14 @@ public class MiddleGenerator_new extends Constant {
            wi.setName(_getRelativeName(CS_C_WEBCOURSE,i));
            c_RemainWEbCourses.add(wi);
         }
+        for(int i = 0;i<PUBLICATION_NUM;i++){
+            PublicationInstance pi = new PublicationInstance();
+            pi.setId(getNextId());
+            pi.setName(_getRelativeName(CS_C_PUBLICATION,i));
+            c_RemainPublications.add(pi);
+        }
 
-        c_Publications.clear();
+
 
         for (int i = 0; i < CLASS_NUM; i++) {
             instances_[i].logNum = 0;
@@ -258,6 +702,14 @@ public class MiddleGenerator_new extends Constant {
         chair_ = random_.nextInt(instances_[CS_C_FULLPROF].total);
 
         int [] classes = new int[]{CS_C_FULLPROF,CS_C_VISITINGPROF,CS_C_ASSOPROF,CS_C_ASSTPROF,CS_C_LECTURER,CS_C_UNDERSTUD,CS_C_VISITSTUD,CS_C_GRADSTUD,CS_C_TA,CS_C_RA,CS_C_RESEARCHGROUP};
+
+
+         if (index == 0) {
+             //_generateASection(CS_C_UNIV, univIndex);
+             _updateCount(CS_C_UNIV);
+         }
+        //_generateASection(CS_C_DEPT, index);
+        _updateCount(CS_C_DEPT);
 
         for(int j = 0;j< instances_[CS_C_FULLPROF].num;j++){
             _updateCount(CS_C_FULLPROF);
@@ -293,15 +745,8 @@ public class MiddleGenerator_new extends Constant {
         }
 
         WriteCsv(dirPath);
-        System.out.println(fileName + " generated");
-        String bar = "";
-        for (int i = 0; i < fileName.length(); i++)
-            bar += '-';
-        log_.println(bar);
-        log_.println(fileName);
-        log_.println(bar);
-        _generateComments();
-        writer_.endFile();
+        System.out.println(dirPath + " generated");
+
     }
 
 
@@ -645,6 +1090,8 @@ public class MiddleGenerator_new extends Constant {
             UnderCourseInstance ui = c_RemainUnderCourses.get(pos);
             c_RemainUnderCourses.remove(pos);
             c_UnderCourses.add(ui);
+            c_UnderCourses_add.add(ui);
+            instances_[CS_C_COURSE].count++;
             p.addCourse(ui.getId());
         }
         courseNum = _getRandomFromRange(FACULTY_GRADCOURSE_MIN, FACULTY_GRADCOURSE_MAX);
@@ -653,6 +1100,8 @@ public class MiddleGenerator_new extends Constant {
            GraduCourseInstance gi = c_RemainGraduCourses.get(pos);
            c_RemainGraduCourses.remove(pos);
            c_GraduCourses.add(gi);
+           c_GraduCourses_add.add(gi);
+           instances_[CS_C_GRADCOURSE].count++;
            p.addCourse(gi.getId());
         }
         for (int i = 0; i < courseNum; i++) {
@@ -666,6 +1115,8 @@ public class MiddleGenerator_new extends Constant {
             wi.setCourseHours(String.valueOf(hours));
             c_RemainWEbCourses.remove(pos);
             c_WEbCourses.add(wi);
+            c_WEbCourses_add.add(wi);
+            instances_[CS_C_WEBCOURSE].count++;
             p.addCourse(wi.getId());
         }
         String n = _getId(CS_C_UNIV, random_.nextInt(UNIV_NUM));
@@ -680,14 +1131,25 @@ public class MiddleGenerator_new extends Constant {
            p.setChair(true);
         }
 
-        int num = _getRandomFromRange(FULLPROF_PUB_MIN, FULLPROF_PUB_MAX);
+        int num = 0;
+        if(type == CS_C_FULLPROF || type == CS_C_VISITINGPROF) num = _getRandomFromRange(FULLPROF_PUB_MIN, FULLPROF_PUB_MAX);
+        if(type == CS_C_ASSOPROF) num = _getRandomFromRange(ASSOPROF_PUB_MIN, ASSOPROF_PUB_MAX);
+        if(type == CS_C_ASSTPROF) num = _getRandomFromRange(ASSTPROF_PUB_MIN, ASSTPROF_PUB_MAX);
+        if(type == CS_C_LECTURER) num = _getRandomFromRange(LEC_PUB_MIN, LEC_PUB_MAX);
         for (int i = 0; i < num; i++) {
-            PublicationInstance pi = new PublicationInstance();
-            pi.setId(getNextId());
-            pi.setName(_getRelativeName(CS_C_PUBLICATION, i));
+            //PublicationInstance pi = new PublicationInstance();
+            int pos = _getRandomFromRange(0,c_RemainPublications.size()-1);
+            PublicationInstance pi = c_RemainPublications.get(pos);
+            //pi.setId(getNextId());
+            //pi.setName(_getRelativeName(CS_C_PUBLICATION, i));
             pi.addPublicationAuthor(p.getId());
+            c_RemainPublications.remove(pos);
             c_Publications.add(pi);
+            c_Publications_add.add(pi);
+            instances_[CS_C_PUBLICATION].count++;
+            authors_add.put(pi.getId(),pi.getPublicationAuthor());
         }
+        teachs_add.put(p.getId(),p.getCourses());
         //c_Professors.add(p);
     }
 
@@ -702,6 +1164,9 @@ public class MiddleGenerator_new extends Constant {
         _generateAProfessor(index,CS_C_FULLPROF,p);
         c_Professors.add(p);
     }
+
+
+
     private void _generateAVisitingProf(int index) {
 
         ProfessorInstance p = new ProfessorInstance();
@@ -1143,7 +1608,7 @@ public class MiddleGenerator_new extends Constant {
         int n = _getRandomFromRange(UNDERSTUD_COURSE_MIN, UNDERSTUD_COURSE_MAX);
         ArrayList list = _getRandomList(n, 0, c_UnderCourses.size() - 1);
         for (int i = 0; i < list.size(); i++) {
-            si.takeCourse(c_UnderCourses.get(i).getId());
+            si.takeCourse(c_UnderCourses.get((int)list.get(i)).getId());
         }
         if (0 == random_.nextInt(R_UNDERSTUD_ADVISOR)) {
             boolean isOk = false;
@@ -1157,6 +1622,8 @@ public class MiddleGenerator_new extends Constant {
 
         }
         c_Students.add(si);
+        c_Students_add.add(si);
+        takeCourses_add.put(si.getId(),si.getTakeCourses());
     }
 
     private void _generateAVisitingStudent(int index) {
@@ -1175,7 +1642,7 @@ public class MiddleGenerator_new extends Constant {
         int n = _getRandomFromRange(VISITSTUD_COURSE_MIN, VISITSTUD_COURSE_MAX);
         ArrayList list = _getRandomList(n, 0, c_UnderCourses.size() - 1);
         for (int i = 0; i < list.size(); i++) {
-            si.takeCourse(c_UnderCourses.get(i).getId());
+            si.takeCourse(c_UnderCourses.get((int)list.get(i)).getId());
         }
 
         String d = _getRandomFromRange(1, 10)+" month(s)";
@@ -1194,6 +1661,8 @@ public class MiddleGenerator_new extends Constant {
             }
         }
         c_Students.add(si);
+        c_Students_add.add(si);
+        takeCourses_add.put(si.getId(),si.getTakeCourses());
     }
 
     /**
@@ -1217,7 +1686,7 @@ public class MiddleGenerator_new extends Constant {
         int n = _getRandomFromRange(GRADSTUD_COURSE_MIN, GRADSTUD_COURSE_MAX);
         ArrayList list = _getRandomList(n, 0, c_GraduCourses.size() - 1);
         for (int i = 0; i < list.size(); i++) {
-            si.takeCourse(c_GraduCourses.get(i).getId());
+            si.takeCourse(c_GraduCourses.get((int)list.get(i)).getId());
         }
 
         if (0 == random_.nextInt(R_GRADSTUD_ADVISOR)) {
@@ -1239,10 +1708,13 @@ public class MiddleGenerator_new extends Constant {
         int num  = _getRandomFromRange(GRADSTUD_PUB_MIN, GRADSTUD_PUB_MAX);
         ArrayList list1 = _getRandomList(num, 0, c_Publications.size() - 1);
         for (int i = 0; i < list1.size(); i++) {
-            PublicationInstance pi = c_Publications.get(i);
+            PublicationInstance pi = c_Publications.get((int)list1.get(i));
             pi.addPublicationAuthor(si.getId());
+            authors_add.put(pi.getId(),pi.getPublicationAuthor());
         }
         c_Students.add(si);
+        c_Students_add.add(si);
+        takeCourses_add.put(si.getId(),si.getTakeCourses());
     }
 
     /**

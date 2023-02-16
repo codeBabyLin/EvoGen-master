@@ -9,6 +9,7 @@ public class PublicationInstance {
 
     public void setId(int id) {
         this.id = id;
+        isLive = true;
     }
 
     public String getName() {
@@ -32,6 +33,16 @@ public class PublicationInstance {
 
 
     int id;
+
+    public boolean isLive() {
+        return isLive;
+    }
+
+    public void setLive(boolean live) {
+        isLive = live;
+    }
+
+    boolean isLive;
     String name;
     ArrayList<Integer> publicationAuthor = new ArrayList<>();
 }

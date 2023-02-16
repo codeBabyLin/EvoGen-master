@@ -86,12 +86,24 @@ public class StudentInstance {
     public void takeCourse(int id){
         this.takeCourses.add(id);
     }
+    public void clearCourse(){
+        this.takeCourses.clear();
+    }
 
     int id;
     String name;
     String type;
     String memberOf;
     String emailAddress;
+
+    public ArrayList<Integer> getTakeCourses() {
+        ArrayList<Integer> copy = new ArrayList<>();
+        for(int i = 0;i<takeCourses.size();i++){
+            copy.add(takeCourses.get(i));
+        }
+        return copy;
+    }
+
     ArrayList<Integer> takeCourses = new ArrayList<>();
     int advisor;
     String undergraduateDegreeFrom;

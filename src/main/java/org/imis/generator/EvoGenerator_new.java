@@ -12,6 +12,7 @@ public class EvoGenerator_new {
         int evoVersions = 0;
         double strict = 0, step;
         int evoOnlyChanges;
+        String type = "r";
         String tempDir = "./temp";
         String userDir = "./test";
         String ontology = null;
@@ -104,7 +105,16 @@ public class EvoGenerator_new {
                         userDir = arg;
                     } else
                         throw new NumberFormatException();
-                } else
+                }
+                else if(arg.equals("-type")){
+                    if(i<args.length){
+                        arg = args[i++];
+                        type = arg;
+                    }
+                    else
+                        throw new NumberFormatException();
+                }
+                else
                     throw new Exception();
             }
             if (((long) startIndex + univNum - 1) > Integer.MAX_VALUE) {
@@ -128,9 +138,9 @@ public class EvoGenerator_new {
         }
 
         //new RdfGenerator().start(univNum,startIndex,seed,daml,ontology,evo,evoVersions,evoChange,strict);
-        new CsvGenerator().start(univNum,startIndex,seed,daml,ontology,evo,evoVersions,evoChange,strict);
+        new CsvGenerator().start(univNum,startIndex,seed,daml,ontology,evo,evoVersions,evoChange,type);
 
-        // new QueryGenerator().start(evoVersions);
+        new QueryGenerator().start(evoVersions);
 
 
     }

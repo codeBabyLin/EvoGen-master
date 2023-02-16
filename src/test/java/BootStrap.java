@@ -9,7 +9,7 @@ public class BootStrap {
     public static void main(String[] args){
         ArrayList<String> params = new ArrayList<>();
         params.add("-univ");
-        params.add("3");
+        params.add("1");
         params.add("-index");
         params.add("0");
         params.add("-onto");
@@ -22,6 +22,8 @@ public class BootStrap {
         params.add("6");
         params.add("-schemaEvo");
         params.add("0.7");
+        params.add("-type");
+        params.add("r");
 
         String[] ars = new String[params.size()];
         params.toArray(ars);
